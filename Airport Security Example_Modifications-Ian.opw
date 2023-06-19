@@ -1,0 +1,40 @@
+[RESOURCES]
+Xray Machine
+Secondary Screening Kit
+Transportation Security Officer
+[VARIABLES]
+Passengers Arrive to Security.NumberOut
+Check for Proper Identification.VACost
+Check for Proper Identification.VATime
+Xray Baggage Check.NumberOut
+Xray Baggage Check.WaitCost
+Xray Baggage Check.WaitTime
+Check for Proper Identification.NumberOut
+NumberOfArrivals
+Additional Security Check.VATime
+Extra Bag Check.NumberIn
+Additional Security Check.VACost
+Extra Bag Check.VACost
+Extra Bag Check.NumberOut
+Extra Bag Check.VATime
+Extra Bag Check.WaitCost
+Extra Bag Check.WaitTime
+Check for Proper Identification.WaitTime
+Check for Proper Identification.WaitCost
+Pass Bag Check?.NumberOut True
+Check for Proper Identification.NumberIn
+Cleared Extra.NumberOut
+Pass Bag Check?.NumberOut False
+Pass or Fail Id.NumberOut True
+v_Counter
+Pass or Fail Id.NumberOut False
+Xray Baggage Check.VATime
+Cleared extra check.NumberOut
+Additional Security Check.NumberIn
+Xray Baggage Check.VACost
+Additional Security Check.NumberOut
+No ID Sent Home.NumberOut
+Extra screening for 15th?.NumberOut False
+Extra screening for 15th?.NumberOut True
+Cleared.NumberOut
+Xray Baggage Check.NumberIn
