@@ -15,22 +15,21 @@ Check for Proper Identification.NumberOut
 NumberOfArrivals
 Additional Security Check.VATime
 Additional Security Check.VACost
+Pass Expo Check?.NumberOut True
 Check for Proper Identification.WaitTime
 Check for Proper Identification.WaitCost
-Pass Bag Check?.NumberOut True
+Pass Expo Check?.NumberOut False
 Check for Proper Identification.NumberIn
-Pass Bag Check?.NumberOut False
 Pass or Fail Id.NumberOut True
 Pass or Fail Id.NumberOut False
 Extra Exp Check.NumberIn
 Xray Baggage Check.VATime
 Extra Exp Check.VACost
+Extra screening.NumberOut False
 Additional Security Check.NumberIn
+Extra screening.NumberOut True
 Xray Baggage Check.VACost
 Additional Security Check.NumberOut
-No ID Sent Home.NumberOut
-Extra screening for 15th?.NumberOut False
-Extra screening for 15th?.NumberOut True
 Cleared.NumberOut
 Extra Exp Check.WaitCost
 Extra Exp Check.WaitTime

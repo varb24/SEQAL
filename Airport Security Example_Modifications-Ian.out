@@ -7,7 +7,7 @@
 Project: Airport Security Analysis                                   Run execution date : 6/19/2023
 Analyst: Rockwell Automation                                         Model revision date: 6/19/2023
 
-Replication ended at time      : 671.9686 Minutes 
+Replication ended at time      : 676.00001 Minutes 
 Base Time Units: Minutes
 
                                            TALLY VARIABLES
@@ -15,45 +15,45 @@ Base Time Units: Minutes
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         98    
-Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          8    
-Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          8    
-Additional Security Check.TotalTimePerEnti  13.491     (Insuf)    4.8208     28.031          8    
-Extra Exp Check.WaitTimePerEntity           46.602     (Insuf)    15.919     72.381          6    
-Extra Exp Check.TotalTimePerEntity          70.330     (Insuf)    52.781     91.437          6    
-Xray Baggage Check.TotalCostPerEntity       1.5358     (Insuf)    .32625     5.0678         98    
-Additional Security Check.VATimePerEntity   13.491     (Insuf)    4.8208     28.031          8    
-Extra Exp Check.VATimePerEntity             23.728     (Insuf)    2.3028     69.546          6    
-Check for Proper Identification.TotalCostP  .74005     (Insuf)    .20787     2.7215        115    
-Check for Proper Identification.TotalTimeP  45.888     (Insuf)    1.1951     80.114        115    
-Extra Exp Check.VACostPerEntity             4.7456     (Insuf)    .46058     13.909          6    
-Check for Proper Identification.WaitTimePe  42.188     (Insuf)    .00000     77.974        115    
+Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         97    
+Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          5    
+Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          5    
+Additional Security Check.TotalTimePerEnti  7.6560     (Insuf)    .00000     12.802          5    
+Extra Exp Check.WaitTimePerEntity           59.047     (Insuf)    13.129     99.013          8    
+Extra Exp Check.TotalTimePerEntity          67.071     (Insuf)    21.650     105.71          8    
+Xray Baggage Check.TotalCostPerEntity       1.6872     (Insuf)    .34669     6.4292         97    
+Additional Security Check.VATimePerEntity   7.6560     (Insuf)    .00000     12.802          5    
+Extra Exp Check.VATimePerEntity             8.0236     (Insuf)    .93439     13.134          8    
+Check for Proper Identification.TotalCostP  .79496     (Insuf)    .18217     2.6644        115    
+Check for Proper Identification.TotalTimeP  59.174     (Insuf)    1.5295     105.01        115    
+Extra Exp Check.VACostPerEntity             1.6047     (Insuf)    .18688     2.6269          8    
+Check for Proper Identification.WaitTimePe  55.200     (Insuf)    .00000     102.27        115    
 Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        115    
-Check for Proper Identification.VACostPerE  .74005     (Insuf)    .20787     2.7215        115    
-Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          6    
-Xray Baggage Check.VACostPerEntity          1.5358     (Insuf)    .32625     5.0678         98    
-Xray Baggage Check.VATimePerEntity          7.6793     (Insuf)    1.6312     25.339         98    
-Extra Exp Check.TotalCostPerEntity          4.7456     (Insuf)    .46058     13.909          6    
-Check for Proper Identification.VATimePerE  3.7002     (Insuf)    1.0393     13.607        115    
-Xray Baggage Check.TotalTimePerEntity       52.159     (Insuf)    6.6681     86.241         98    
-Xray Baggage Check.WaitTimePerEntity        44.480     (Insuf)    .00000     79.385         98    
-Entity 1.VATime                             13.748     (Insuf)    1.4427     97.778        100    
+Check for Proper Identification.VACostPerE  .79496     (Insuf)    .18217     2.6644        115    
+Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          8    
+Xray Baggage Check.VACostPerEntity          1.6872     (Insuf)    .34669     6.4292         97    
+Xray Baggage Check.VATimePerEntity          8.4363     (Insuf)    1.7334     32.146         97    
+Extra Exp Check.TotalCostPerEntity          1.6047     (Insuf)    .18688     2.6269          8    
+Check for Proper Identification.VATimePerE  3.9747     (Insuf)    .91083     13.322        115    
+Xray Baggage Check.TotalTimePerEntity       65.920     (Insuf)    2.0667     114.12         97    
+Xray Baggage Check.WaitTimePerEntity        57.484     (Insuf)    .00000     102.72         97    
+Entity 1.VATime                             13.266     (Insuf)    1.2738     45.468        100    
 Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        100    
-Entity 1.WaitTime                           83.725     (Insuf)    .00000     174.57        100    
+Entity 1.WaitTime                           110.55     (Insuf)    .00000     261.26        100    
 Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalTime                          97.473     (Insuf)    7.8632     194.54        100    
-Entity 1.VACost                             2.5337     (Insuf)    .28855     19.555        100    
+Entity 1.TotalTime                          123.81     (Insuf)    3.5962     276.00        100    
+Entity 1.VACost                             2.5768     (Insuf)    .25477     9.0936        100    
 Entity 1.NVACost                            .00000     (Insuf)    .00000     .00000        100    
 Entity 1.WaitCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.TranCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherCost                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalCost                          2.5337     (Insuf)    .28855     19.555        100    
-Extra Exp Check.Queue.WaitingTime           46.602     (Insuf)    15.919     72.381          6    
-Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          6    
-Xray Baggage Check.Queue.WaitingTime        44.480     (Insuf)    .00000     79.385         98    
-Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         98    
-Check for Proper Identification.Queue.Wait  42.609     (Insuf)    .00000     77.974        117    
+Entity 1.TotalCost                          2.5768     (Insuf)    .25477     9.0936        100    
+Extra Exp Check.Queue.WaitingTime           59.047     (Insuf)    13.129     99.013          8    
+Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          8    
+Xray Baggage Check.Queue.WaitingTime        57.484     (Insuf)    .00000     102.72         97    
+Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         97    
+Check for Proper Identification.Queue.Wait  55.931     (Insuf)    .00000     102.27        117    
 Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        117    
 
                                      DISCRETE-CHANGE VARIABLES
@@ -61,83 +61,83 @@ Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Entity 1.WIP                                17.746     (Insuf)    .00000     32.000     28.000    
-Xray Machine.NumberBusy                     1.1199     (Insuf)    .00000     2.0000     .00000    
+Entity 1.WIP                                23.029     (Insuf)    .00000     38.000     36.000    
+Xray Machine.NumberBusy                     1.2105     (Insuf)    .00000     2.0000     .00000    
 Xray Machine.NumberScheduled                2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Xray Machine.Utilization                    .55998     (Insuf)    .00000     1.0000     .00000    
-Secondary Screening Kit.NumberBusy          .21187     (Insuf)    .00000     1.0000     .00000    
+Xray Machine.Utilization                    .60527     (Insuf)    .00000     1.0000     .00000    
+Secondary Screening Kit.NumberBusy          .09495     (Insuf)    .00000     1.0000     .00000    
 Secondary Screening Kit.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Secondary Screening Kit.Utilization         .21187     (Insuf)    .00000     1.0000     .00000    
-Transportation Security Officer.NumberBusy  1.9667     (Insuf)    .00000     2.0000     2.0000    
+Secondary Screening Kit.Utilization         .09495     (Insuf)    .00000     1.0000     .00000    
+Transportation Security Officer.NumberBusy  1.9831     (Insuf)    .00000     2.0000     2.0000    
 Transportation Security Officer.NumberSche  2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Transportation Security Officer.Utilizatio  .98337     (Insuf)    .00000     1.0000     1.0000    
-Extra Exp Check.Queue.NumberInQueue         .49977     (Insuf)    .00000     3.0000     1.0000    
-Xray Baggage Check.Queue.NumberInQueue      7.1609     (Insuf)    .00000     18.000     14.000    
-Check for Proper Identification.Queue.Numb  7.9581     (Insuf)    .00000     20.000     11.000    
+Transportation Security Officer.Utilizatio  .99157     (Insuf)    .00000     1.0000     1.0000    
+Extra Exp Check.Queue.NumberInQueue         .69879     (Insuf)    .00000     2.0000     .00000    
+Xray Baggage Check.Queue.NumberInQueue      9.3172     (Insuf)    .00000     18.000     15.000    
+Check for Proper Identification.Queue.Numb  10.973     (Insuf)    .00000     21.000     19.000    
 
                                              OUTPUTS
 
 Identifier                                   Value
 _____________________________________________________________
 
-Extra Exp Check Accum VA Time               142.36    
-Xray Baggage Check Total Accum Time         5111.6    
-Extra Exp Check Number Out                  6.0000    
-Check for Proper Identification Accum VA C  85.106    
-Xray Baggage Check Number Out               98.000    
-Check for Proper Identification Accum VA T  425.53    
+Extra Exp Check Accum VA Time               64.189    
+Xray Baggage Check Total Accum Time         6394.2    
+Extra Exp Check Number Out                  8.0000    
+Check for Proper Identification Accum VA C  91.419    
+Xray Baggage Check Number Out               97.000    
+Check for Proper Identification Accum VA T  457.09    
 Xray Baggage Check Accum Wait Cost          .00000    
-Xray Baggage Check Accum Wait Time          4359.0    
+Xray Baggage Check Accum Wait Time          5575.9    
 Check for Proper Identification Number Out  115.00    
-Check for Proper Identification Total Accu  85.106    
-Additional Security Check Total Accum Time  107.93    
-Extra Exp Check Total Accum Cost            28.473    
-Extra Exp Check Total Accum Time            421.98    
-Additional Security Check Accum VA Time     107.93    
+Check for Proper Identification Total Accu  91.419    
+Additional Security Check Total Accum Time  38.280    
+Extra Exp Check Total Accum Cost            12.837    
+Extra Exp Check Total Accum Time            536.56    
+Additional Security Check Accum VA Time     38.280    
 Additional Security Check Accum VA Cost     .00000    
 Additional Security Check Total Accum Cost  .00000    
-Check for Proper Identification Accum Wait  4851.6    
+Check for Proper Identification Accum Wait  6348.0    
 Check for Proper Identification Accum Wait  .00000    
-Check for Proper Identification Number In   128.00    
-Extra Exp Check Number In                   7.0000    
-Xray Baggage Check Accum VA Time            752.57    
-Extra Exp Check Accum VA Cost               28.473    
-Check for Proper Identification Total Accu  5277.1    
-Additional Security Check Number In         8.0000    
-Xray Baggage Check Accum VA Cost            150.51    
-Additional Security Check Number Out        8.0000    
+Check for Proper Identification Number In   136.00    
+Extra Exp Check Number In                   8.0000    
+Xray Baggage Check Accum VA Time            818.32    
+Extra Exp Check Accum VA Cost               12.837    
+Check for Proper Identification Total Accu  6805.1    
+Additional Security Check Number In         5.0000    
+Xray Baggage Check Accum VA Cost            163.66    
+Additional Security Check Number Out        5.0000    
 Extra Exp Check Accum Wait Cost             .00000    
-Extra Exp Check Accum Wait Time             279.61    
-Xray Baggage Check Total Accum Cost         150.51    
+Extra Exp Check Accum Wait Time             472.38    
+Xray Baggage Check Total Accum Cost         163.66    
 Xray Baggage Check Number In                112.00    
-Entity 1.NumberIn                           128.00    
+Entity 1.NumberIn                           136.00    
 Entity 1.NumberOut                          100.00    
-Xray Machine.NumberSeized                   98.000    
-Xray Machine.ScheduledUtilization           .55998    
+Xray Machine.NumberSeized                   97.000    
+Xray Machine.ScheduledUtilization           .60527    
 Xray Machine.BusyCost                       .00000    
 Xray Machine.IdleCost                       .00000    
 Xray Machine.UsageCost                      .00000    
-Secondary Screening Kit.NumberSeized        6.0000    
-Secondary Screening Kit.ScheduledUtilizati  .21187    
+Secondary Screening Kit.NumberSeized        8.0000    
+Secondary Screening Kit.ScheduledUtilizati  .09495    
 Secondary Screening Kit.BusyCost            .00000    
 Secondary Screening Kit.IdleCost            .00000    
 Secondary Screening Kit.UsageCost           .00000    
-Transportation Security Officer.NumberSeiz  221.00    
-Transportation Security Officer.ScheduledU  .98337    
-Transportation Security Officer.BusyCost    264.09    
-Transportation Security Officer.IdleCost    4.4699    
+Transportation Security Officer.NumberSeiz  222.00    
+Transportation Security Officer.ScheduledU  .99157    
+Transportation Security Officer.BusyCost    267.92    
+Transportation Security Officer.IdleCost    2.2807    
 Transportation Security Officer.UsageCost   .00000    
-All Entities.VACost                         264.09    
+All Entities.VACost                         267.92    
 All Entities.NVACost                        .00000    
 All Entities.WaitCost                       .00000    
 All Entities.TranCost                       .00000    
 All Entities.OtherCost                      .00000    
-All Entities.TotalCost                      264.09    
-All Resources.BusyCost                      264.09    
-All Resources.IdleCost                      4.4699    
+All Entities.TotalCost                      267.92    
+All Resources.BusyCost                      267.92    
+All Resources.IdleCost                      2.2807    
 All Resources.UsageCost                     .00000    
-All Resources.TotalCost                     268.56    
-System.TotalCost                            268.56    
+All Resources.TotalCost                     270.20    
+System.TotalCost                            270.20    
 System.NumberOut                            100.00    
 
 Beginning replication 2 of 7
@@ -150,7 +150,7 @@ Beginning replication 2 of 7
 Project: Airport Security Analysis                                   Run execution date : 6/19/2023
 Analyst: Rockwell Automation                                         Model revision date: 6/19/2023
 
-Replication ended at time      : 679.27639 Minutes 
+Replication ended at time      : 591.91579 Minutes 
 Base Time Units: Minutes
 
                                            TALLY VARIABLES
@@ -158,129 +158,129 @@ Base Time Units: Minutes
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         99    
+Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         94    
 Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          5    
 Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          5    
-Additional Security Check.TotalTimePerEnti  13.015     (Insuf)    7.9711     16.928          5    
-Extra Exp Check.WaitTimePerEntity           43.397     (Insuf)    17.735     87.493          4    
-Extra Exp Check.TotalTimePerEntity          63.344     (Insuf)    46.922     95.597          4    
-Xray Baggage Check.TotalCostPerEntity       1.6631     (Insuf)    .30932     5.6840         99    
-Additional Security Check.VATimePerEntity   13.015     (Insuf)    7.9711     16.928          5    
-Extra Exp Check.VATimePerEntity             19.947     (Insuf)    8.1039     33.552          4    
-Check for Proper Identification.TotalCostP  .76457     (Insuf)    .21577     2.3530        118    
-Check for Proper Identification.TotalTimeP  53.296     (Insuf)    6.7343     92.189        118    
-Extra Exp Check.VACostPerEntity             3.9895     (Insuf)    1.6207     6.7105          4    
-Check for Proper Identification.WaitTimePe  49.474     (Insuf)    .00000     89.174        118    
-Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        118    
-Check for Proper Identification.VACostPerE  .76457     (Insuf)    .21577     2.3530        118    
-Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          4    
-Xray Baggage Check.VACostPerEntity          1.6631     (Insuf)    .30932     5.6840         99    
-Xray Baggage Check.VATimePerEntity          8.3159     (Insuf)    1.5465     28.420         99    
-Extra Exp Check.TotalCostPerEntity          3.9895     (Insuf)    1.6207     6.7105          4    
-Check for Proper Identification.VATimePerE  3.8228     (Insuf)    1.0788     11.765        118    
-Xray Baggage Check.TotalTimePerEntity       55.727     (Insuf)    13.160     100.33         99    
-Xray Baggage Check.WaitTimePerEntity        47.411     (Insuf)    3.9382     85.711         99    
-Entity 1.VATime                             13.570     (Insuf)    3.0644     68.972        100    
+Additional Security Check.TotalTimePerEnti  4.9011     (Insuf)    .00000     15.544          5    
+Extra Exp Check.WaitTimePerEntity           .00000     (Insuf)    .00000     .00000          1    
+Extra Exp Check.TotalTimePerEntity          14.183     (Insuf)    14.183     14.183          1    
+Xray Baggage Check.TotalCostPerEntity       1.6191     (Insuf)    .34591     4.9193         94    
+Additional Security Check.VATimePerEntity   4.9011     (Insuf)    .00000     15.544          5    
+Extra Exp Check.VATimePerEntity             14.183     (Insuf)    14.183     14.183          1    
+Check for Proper Identification.TotalCostP  .73849     (Insuf)    .17715     2.3650        109    
+Check for Proper Identification.TotalTimeP  29.286     (Insuf)    2.0981     55.288        109    
+Extra Exp Check.VACostPerEntity             2.8367     (Insuf)    2.8367     2.8367          1    
+Check for Proper Identification.WaitTimePe  25.593     (Insuf)    .00000     52.422        109    
+Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        109    
+Check for Proper Identification.VACostPerE  .73849     (Insuf)    .17715     2.3650        109    
+Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          1    
+Xray Baggage Check.VACostPerEntity          1.6191     (Insuf)    .34591     4.9193         94    
+Xray Baggage Check.VATimePerEntity          8.0955     (Insuf)    1.7295     24.596         94    
+Extra Exp Check.TotalCostPerEntity          2.8367     (Insuf)    2.8367     2.8367          1    
+Check for Proper Identification.VATimePerE  3.6924     (Insuf)    .88576     11.825        109    
+Xray Baggage Check.TotalTimePerEntity       32.852     (Insuf)    3.2355     60.326         94    
+Xray Baggage Check.WaitTimePerEntity        24.757     (Insuf)    .00000     53.699         94    
+Entity 1.VATime                             11.737     (Insuf)    2.1326     32.715        100    
 Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        100    
-Entity 1.WaitTime                           92.337     (Insuf)    3.9382     227.65        100    
+Entity 1.WaitTime                           47.083     (Insuf)    .00000     87.313        100    
 Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalTime                          105.90     (Insuf)    22.257     250.34        100    
-Entity 1.VACost                             2.5838     (Insuf)    .61290     13.794        100    
+Entity 1.TotalTime                          58.820     (Insuf)    9.8612     102.42        100    
+Entity 1.VACost                             2.2985     (Insuf)    .42653     6.5431        100    
 Entity 1.NVACost                            .00000     (Insuf)    .00000     .00000        100    
 Entity 1.WaitCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.TranCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherCost                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalCost                          2.5838     (Insuf)    .61290     13.794        100    
-Extra Exp Check.Queue.WaitingTime           43.397     (Insuf)    17.735     87.493          4    
-Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          4    
-Xray Baggage Check.Queue.WaitingTime        48.127     (Insuf)    3.9382     85.711        101    
-Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000        101    
-Check for Proper Identification.Queue.Wait  49.474     (Insuf)    .00000     89.174        118    
-Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        118    
+Entity 1.TotalCost                          2.2985     (Insuf)    .42653     6.5431        100    
+Extra Exp Check.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000          1    
+Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          1    
+Xray Baggage Check.Queue.WaitingTime        24.987     (Insuf)    .00000     53.699         95    
+Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         95    
+Check for Proper Identification.Queue.Wait  25.776     (Insuf)    .00000     52.422        110    
+Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        110    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Entity 1.WIP                                20.113     (Insuf)    .00000     39.000     38.000    
-Xray Machine.NumberBusy                     1.2176     (Insuf)    .00000     2.0000     2.0000    
+Entity 1.WIP                                11.443     (Insuf)    .00000     20.000     19.000    
+Xray Machine.NumberBusy                     1.2856     (Insuf)    .00000     2.0000     1.0000    
 Xray Machine.NumberScheduled                2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Xray Machine.Utilization                    .60883     (Insuf)    .00000     1.0000     1.0000    
-Secondary Screening Kit.NumberBusy          .11746     (Insuf)    .00000     1.0000     .00000    
+Xray Machine.Utilization                    .64281     (Insuf)    .00000     1.0000     .50000    
+Secondary Screening Kit.NumberBusy          .02396     (Insuf)    .00000     1.0000     .00000    
 Secondary Screening Kit.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Secondary Screening Kit.Utilization         .11746     (Insuf)    .00000     1.0000     .00000    
-Transportation Security Officer.NumberBusy  1.9992     (Insuf)    .00000     2.0000     2.0000    
+Secondary Screening Kit.Utilization         .02396     (Insuf)    .00000     1.0000     .00000    
+Transportation Security Officer.NumberBusy  1.9915     (Insuf)    .00000     2.0000     2.0000    
 Transportation Security Officer.NumberSche  2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Transportation Security Officer.Utilizatio  .99960     (Insuf)    .00000     1.0000     1.0000    
-Extra Exp Check.Queue.NumberInQueue         .25555     (Insuf)    .00000     2.0000     .00000    
-Xray Baggage Check.Queue.NumberInQueue      8.0508     (Insuf)    .00000     18.000     16.000    
-Check for Proper Identification.Queue.Numb  9.7126     (Insuf)    .00000     20.000     20.000    
+Transportation Security Officer.Utilizatio  .99578     (Insuf)    .00000     1.0000     1.0000    
+Extra Exp Check.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+Xray Baggage Check.Queue.NumberInQueue      4.2868     (Insuf)    .00000     9.0000     8.0000    
+Check for Proper Identification.Queue.Numb  5.1235     (Insuf)    .00000     11.000     9.0000    
 
                                              OUTPUTS
 
 Identifier                                   Value
 _____________________________________________________________
 
-Extra Exp Check Accum VA Time               79.790    
-Xray Baggage Check Total Accum Time         5517.0    
-Extra Exp Check Number Out                  4.0000    
-Check for Proper Identification Accum VA C  90.219    
-Xray Baggage Check Number Out               99.000    
-Check for Proper Identification Accum VA T  451.09    
+Extra Exp Check Accum VA Time               14.183    
+Xray Baggage Check Total Accum Time         3088.1    
+Extra Exp Check Number Out                  1.0000    
+Check for Proper Identification Accum VA C  80.494    
+Xray Baggage Check Number Out               94.000    
+Check for Proper Identification Accum VA T  402.47    
 Xray Baggage Check Accum Wait Cost          .00000    
-Xray Baggage Check Accum Wait Time          4693.7    
-Check for Proper Identification Number Out  118.00    
-Check for Proper Identification Total Accu  90.219    
-Additional Security Check Total Accum Time  65.076    
-Extra Exp Check Total Accum Cost            15.958    
-Extra Exp Check Total Accum Time            253.37    
-Additional Security Check Accum VA Time     65.076    
+Xray Baggage Check Accum Wait Time          2327.1    
+Check for Proper Identification Number Out  109.00    
+Check for Proper Identification Total Accu  80.494    
+Additional Security Check Total Accum Time  24.505    
+Extra Exp Check Total Accum Cost            2.8367    
+Extra Exp Check Total Accum Time            14.183    
+Additional Security Check Accum VA Time     24.505    
 Additional Security Check Accum VA Cost     .00000    
 Additional Security Check Total Accum Cost  .00000    
-Check for Proper Identification Accum Wait  5837.9    
+Check for Proper Identification Accum Wait  2789.7    
 Check for Proper Identification Accum Wait  .00000    
-Check for Proper Identification Number In   138.00    
-Extra Exp Check Number In                   4.0000    
-Xray Baggage Check Accum VA Time            823.27    
-Extra Exp Check Accum VA Cost               15.958    
-Check for Proper Identification Total Accu  6289.0    
+Check for Proper Identification Number In   119.00    
+Extra Exp Check Number In                   1.0000    
+Xray Baggage Check Accum VA Time            760.98    
+Extra Exp Check Accum VA Cost               2.8367    
+Check for Proper Identification Total Accu  3192.1    
 Additional Security Check Number In         5.0000    
-Xray Baggage Check Accum VA Cost            164.65    
+Xray Baggage Check Accum VA Cost            152.19    
 Additional Security Check Number Out        5.0000    
 Extra Exp Check Accum Wait Cost             .00000    
-Extra Exp Check Accum Wait Time             173.58    
-Xray Baggage Check Total Accum Cost         164.65    
-Xray Baggage Check Number In                117.00    
-Entity 1.NumberIn                           138.00    
+Extra Exp Check Accum Wait Time             .00000    
+Xray Baggage Check Total Accum Cost         152.19    
+Xray Baggage Check Number In                103.00    
+Entity 1.NumberIn                           119.00    
 Entity 1.NumberOut                          100.00    
-Xray Machine.NumberSeized                   101.00    
-Xray Machine.ScheduledUtilization           .60883    
+Xray Machine.NumberSeized                   95.000    
+Xray Machine.ScheduledUtilization           .64281    
 Xray Machine.BusyCost                       .00000    
 Xray Machine.IdleCost                       .00000    
 Xray Machine.UsageCost                      .00000    
-Secondary Screening Kit.NumberSeized        4.0000    
-Secondary Screening Kit.ScheduledUtilizati  .11746    
+Secondary Screening Kit.NumberSeized        1.0000    
+Secondary Screening Kit.ScheduledUtilizati  .02396    
 Secondary Screening Kit.BusyCost            .00000    
 Secondary Screening Kit.IdleCost            .00000    
 Secondary Screening Kit.UsageCost           .00000    
-Transportation Security Officer.NumberSeiz  223.00    
-Transportation Security Officer.ScheduledU  .99960    
-Transportation Security Officer.BusyCost    270.83    
-Transportation Security Officer.IdleCost    .10744    
+Transportation Security Officer.NumberSeiz  206.00    
+Transportation Security Officer.ScheduledU  .99578    
+Transportation Security Officer.BusyCost    235.52    
+Transportation Security Officer.IdleCost    1.0000    
 Transportation Security Officer.UsageCost   .00000    
-All Entities.VACost                         270.83    
+All Entities.VACost                         235.52    
 All Entities.NVACost                        .00000    
 All Entities.WaitCost                       .00000    
 All Entities.TranCost                       .00000    
 All Entities.OtherCost                      .00000    
-All Entities.TotalCost                      270.83    
-All Resources.BusyCost                      270.83    
-All Resources.IdleCost                      .10744    
+All Entities.TotalCost                      235.52    
+All Resources.BusyCost                      235.52    
+All Resources.IdleCost                      1.0000    
 All Resources.UsageCost                     .00000    
-All Resources.TotalCost                     270.94    
-System.TotalCost                            270.94    
+All Resources.TotalCost                     236.52    
+System.TotalCost                            236.52    
 System.NumberOut                            100.00    
 
 Beginning replication 3 of 7
@@ -293,7 +293,7 @@ Beginning replication 3 of 7
 Project: Airport Security Analysis                                   Run execution date : 6/19/2023
 Analyst: Rockwell Automation                                         Model revision date: 6/19/2023
 
-Replication ended at time      : 560.64636 Minutes 
+Replication ended at time      : 653.12744 Minutes 
 Base Time Units: Minutes
 
                                            TALLY VARIABLES
@@ -301,129 +301,129 @@ Base Time Units: Minutes
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         91    
-Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          4    
-Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          4    
-Additional Security Check.TotalTimePerEnti  9.0965     (Insuf)    3.8850     14.532          4    
-Extra Exp Check.WaitTimePerEntity           22.960     (Insuf)    22.684     23.236          2    
-Extra Exp Check.TotalTimePerEntity          30.717     (Insuf)    27.859     33.575          2    
-Xray Baggage Check.TotalCostPerEntity       1.5289     (Insuf)    .36881     4.8925         91    
-Additional Security Check.VATimePerEntity   9.0965     (Insuf)    3.8850     14.532          4    
-Extra Exp Check.VATimePerEntity             7.7569     (Insuf)    4.6229     10.890          2    
-Check for Proper Identification.TotalCostP  .73255     (Insuf)    .19664     1.7276        110    
-Check for Proper Identification.TotalTimeP  30.554     (Insuf)    1.6425     52.927        110    
-Extra Exp Check.VACostPerEntity             1.5513     (Insuf)    .92460     2.1781          2    
-Check for Proper Identification.WaitTimePe  26.891     (Insuf)    .00000     48.357        110    
-Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        110    
-Check for Proper Identification.VACostPerE  .73255     (Insuf)    .19664     1.7276        110    
-Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          2    
-Xray Baggage Check.VACostPerEntity          1.5289     (Insuf)    .36881     4.8925         91    
-Xray Baggage Check.VATimePerEntity          7.6445     (Insuf)    1.8440     24.462         91    
-Extra Exp Check.TotalCostPerEntity          1.5513     (Insuf)    .92460     2.1781          2    
-Check for Proper Identification.VATimePerE  3.6627     (Insuf)    .98321     8.6380        110    
-Xray Baggage Check.TotalTimePerEntity       33.487     (Insuf)    3.5327     63.464         91    
-Xray Baggage Check.WaitTimePerEntity        25.843     (Insuf)    .00000     49.833         91    
-Entity 1.VATime                             11.037     (Insuf)    1.1157     31.593        100    
+Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         99    
+Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          7    
+Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          7    
+Additional Security Check.TotalTimePerEnti  2.5834     (Insuf)    .00000     7.5015          7    
+Extra Exp Check.WaitTimePerEntity           44.865     (Insuf)    12.063     75.862          6    
+Extra Exp Check.TotalTimePerEntity          51.796     (Insuf)    18.354     82.871          6    
+Xray Baggage Check.TotalCostPerEntity       1.6015     (Insuf)    .40009     7.6889         99    
+Additional Security Check.VATimePerEntity   2.5834     (Insuf)    .00000     7.5015          7    
+Extra Exp Check.VATimePerEntity             6.9307     (Insuf)    3.4980     13.149          6    
+Check for Proper Identification.TotalCostP  .77998     (Insuf)    .16662     2.3454        115    
+Check for Proper Identification.TotalTimeP  42.896     (Insuf)    .83308     87.254        115    
+Extra Exp Check.VACostPerEntity             1.3861     (Insuf)    .69960     2.6298          6    
+Check for Proper Identification.WaitTimePe  38.996     (Insuf)    .00000     84.223        115    
+Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        115    
+Check for Proper Identification.VACostPerE  .77998     (Insuf)    .16662     2.3454        115    
+Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          6    
+Xray Baggage Check.VACostPerEntity          1.6015     (Insuf)    .40009     7.6889         99    
+Xray Baggage Check.VATimePerEntity          8.0075     (Insuf)    2.0004     38.444         99    
+Extra Exp Check.TotalCostPerEntity          1.3861     (Insuf)    .69960     2.6298          6    
+Check for Proper Identification.VATimePerE  3.8999     (Insuf)    .83308     11.727        115    
+Xray Baggage Check.TotalTimePerEntity       46.612     (Insuf)    2.2062     99.210         99    
+Xray Baggage Check.WaitTimePerEntity        38.604     (Insuf)    .00000     83.209         99    
+Entity 1.VATime                             12.244     (Insuf)    2.7796     50.172        100    
 Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        100    
-Entity 1.WaitTime                           49.420     (Insuf)    .00000     93.149        100    
+Entity 1.WaitTime                           73.558     (Insuf)    .00000     179.30        100    
 Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalTime                          60.458     (Insuf)    5.3759     116.39        100    
-Entity 1.VACost                             2.1347     (Insuf)    .22315     6.3187        100    
+Entity 1.TotalTime                          85.803     (Insuf)    4.3497     195.15        100    
+Entity 1.VACost                             2.4128     (Insuf)    .55592     10.034        100    
 Entity 1.NVACost                            .00000     (Insuf)    .00000     .00000        100    
 Entity 1.WaitCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.TranCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherCost                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalCost                          2.1347     (Insuf)    .22315     6.3187        100    
-Extra Exp Check.Queue.WaitingTime           22.960     (Insuf)    22.684     23.236          2    
-Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          2    
-Xray Baggage Check.Queue.WaitingTime        26.357     (Insuf)    .00000     49.900         93    
-Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         93    
-Check for Proper Identification.Queue.Wait  26.891     (Insuf)    .00000     48.357        110    
-Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        110    
+Entity 1.TotalCost                          2.4128     (Insuf)    .55592     10.034        100    
+Extra Exp Check.Queue.WaitingTime           44.865     (Insuf)    12.063     75.862          6    
+Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          6    
+Xray Baggage Check.Queue.WaitingTime        38.980     (Insuf)    .00000     83.209        100    
+Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000        100    
+Check for Proper Identification.Queue.Wait  39.328     (Insuf)    .00000     84.223        116    
+Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        116    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Entity 1.WIP                                12.558     (Insuf)    .00000     20.000     17.000    
-Xray Machine.NumberBusy                     1.2486     (Insuf)    .00000     2.0000     2.0000    
+Entity 1.WIP                                16.899     (Insuf)    .00000     33.000     31.000    
+Xray Machine.NumberBusy                     1.2137     (Insuf)    .00000     2.0000     1.0000    
 Xray Machine.NumberScheduled                2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Xray Machine.Utilization                    .62431     (Insuf)    .00000     1.0000     1.0000    
-Secondary Screening Kit.NumberBusy          .02767     (Insuf)    .00000     1.0000     .00000    
+Xray Machine.Utilization                    .60689     (Insuf)    .00000     1.0000     .50000    
+Secondary Screening Kit.NumberBusy          .06367     (Insuf)    .00000     1.0000     .00000    
 Secondary Screening Kit.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Secondary Screening Kit.Utilization         .02767     (Insuf)    .00000     1.0000     .00000    
-Transportation Security Officer.NumberBusy  1.9949     (Insuf)    .00000     2.0000     2.0000    
+Secondary Screening Kit.Utilization         .06367     (Insuf)    .00000     1.0000     .00000    
+Transportation Security Officer.NumberBusy  1.9651     (Insuf)    .00000     2.0000     2.0000    
 Transportation Security Officer.NumberSche  2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Transportation Security Officer.Utilizatio  .99747     (Insuf)    .00000     1.0000     1.0000    
-Extra Exp Check.Queue.NumberInQueue         .08191     (Insuf)    .00000     2.0000     .00000    
-Xray Baggage Check.Queue.NumberInQueue      4.8019     (Insuf)    .00000     10.000     8.0000    
-Check for Proper Identification.Queue.Numb  5.6148     (Insuf)    .00000     13.000     7.0000    
+Transportation Security Officer.Utilizatio  .98259     (Insuf)    .00000     1.0000     1.0000    
+Extra Exp Check.Queue.NumberInQueue         .45642     (Insuf)    .00000     2.0000     1.0000    
+Xray Baggage Check.Queue.NumberInQueue      6.5892     (Insuf)    .00000     15.000     13.000    
+Check for Proper Identification.Queue.Numb  7.8606     (Insuf)    .00000     17.000     15.000    
 
                                              OUTPUTS
 
 Identifier                                   Value
 _____________________________________________________________
 
-Extra Exp Check Accum VA Time               15.513    
-Xray Baggage Check Total Accum Time         3047.3    
-Extra Exp Check Number Out                  2.0000    
-Check for Proper Identification Accum VA C  80.580    
-Xray Baggage Check Number Out               91.000    
-Check for Proper Identification Accum VA T  402.90    
+Extra Exp Check Accum VA Time               41.584    
+Xray Baggage Check Total Accum Time         4614.6    
+Extra Exp Check Number Out                  6.0000    
+Check for Proper Identification Accum VA C  89.697    
+Xray Baggage Check Number Out               99.000    
+Check for Proper Identification Accum VA T  448.48    
 Xray Baggage Check Accum Wait Cost          .00000    
-Xray Baggage Check Accum Wait Time          2351.7    
-Check for Proper Identification Number Out  110.00    
-Check for Proper Identification Total Accu  80.580    
-Additional Security Check Total Accum Time  36.386    
-Extra Exp Check Total Accum Cost            3.1027    
-Extra Exp Check Total Accum Time            61.434    
-Additional Security Check Accum VA Time     36.386    
+Xray Baggage Check Accum Wait Time          3821.8    
+Check for Proper Identification Number Out  115.00    
+Check for Proper Identification Total Accu  89.697    
+Additional Security Check Total Accum Time  18.083    
+Extra Exp Check Total Accum Cost            8.3168    
+Extra Exp Check Total Accum Time            310.77    
+Additional Security Check Accum VA Time     18.083    
 Additional Security Check Accum VA Cost     .00000    
 Additional Security Check Total Accum Cost  .00000    
-Check for Proper Identification Accum Wait  2958.0    
+Check for Proper Identification Accum Wait  4484.6    
 Check for Proper Identification Accum Wait  .00000    
-Check for Proper Identification Number In   117.00    
-Extra Exp Check Number In                   2.0000    
-Xray Baggage Check Accum VA Time            695.65    
-Extra Exp Check Accum VA Cost               3.1027    
-Check for Proper Identification Total Accu  3360.9    
-Additional Security Check Number In         4.0000    
-Xray Baggage Check Accum VA Cost            139.13    
-Additional Security Check Number Out        4.0000    
+Check for Proper Identification Number In   131.00    
+Extra Exp Check Number In                   7.0000    
+Xray Baggage Check Accum VA Time            792.74    
+Extra Exp Check Accum VA Cost               8.3168    
+Check for Proper Identification Total Accu  4933.1    
+Additional Security Check Number In         7.0000    
+Xray Baggage Check Accum VA Cost            158.54    
+Additional Security Check Number Out        7.0000    
 Extra Exp Check Accum Wait Cost             .00000    
-Extra Exp Check Accum Wait Time             45.920    
-Xray Baggage Check Total Accum Cost         139.13    
-Xray Baggage Check Number In                101.00    
-Entity 1.NumberIn                           117.00    
+Extra Exp Check Accum Wait Time             269.19    
+Xray Baggage Check Total Accum Cost         158.54    
+Xray Baggage Check Number In                113.00    
+Entity 1.NumberIn                           131.00    
 Entity 1.NumberOut                          100.00    
-Xray Machine.NumberSeized                   93.000    
-Xray Machine.ScheduledUtilization           .62431    
+Xray Machine.NumberSeized                   100.00    
+Xray Machine.ScheduledUtilization           .60689    
 Xray Machine.BusyCost                       .00000    
 Xray Machine.IdleCost                       .00000    
 Xray Machine.UsageCost                      .00000    
-Secondary Screening Kit.NumberSeized        2.0000    
-Secondary Screening Kit.ScheduledUtilizati  .02767    
+Secondary Screening Kit.NumberSeized        6.0000    
+Secondary Screening Kit.ScheduledUtilizati  .06367    
 Secondary Screening Kit.BusyCost            .00000    
 Secondary Screening Kit.IdleCost            .00000    
 Secondary Screening Kit.UsageCost           .00000    
-Transportation Security Officer.NumberSeiz  205.00    
-Transportation Security Officer.ScheduledU  .99747    
-Transportation Security Officer.BusyCost    222.81    
-Transportation Security Officer.IdleCost    .56762    
+Transportation Security Officer.NumberSeiz  222.00    
+Transportation Security Officer.ScheduledU  .98259    
+Transportation Security Officer.BusyCost    256.56    
+Transportation Security Officer.IdleCost    4.5493    
 Transportation Security Officer.UsageCost   .00000    
-All Entities.VACost                         222.81    
+All Entities.VACost                         256.56    
 All Entities.NVACost                        .00000    
 All Entities.WaitCost                       .00000    
 All Entities.TranCost                       .00000    
 All Entities.OtherCost                      .00000    
-All Entities.TotalCost                      222.81    
-All Resources.BusyCost                      222.81    
-All Resources.IdleCost                      .56762    
+All Entities.TotalCost                      256.56    
+All Resources.BusyCost                      256.56    
+All Resources.IdleCost                      4.5493    
 All Resources.UsageCost                     .00000    
-All Resources.TotalCost                     223.38    
-System.TotalCost                            223.38    
+All Resources.TotalCost                     261.11    
+System.TotalCost                            261.11    
 System.NumberOut                            100.00    
 
 Beginning replication 4 of 7
@@ -436,7 +436,7 @@ Beginning replication 4 of 7
 Project: Airport Security Analysis                                   Run execution date : 6/19/2023
 Analyst: Rockwell Automation                                         Model revision date: 6/19/2023
 
-Replication ended at time      : 648.78306 Minutes 
+Replication ended at time      : 584.53662 Minutes 
 Base Time Units: Minutes
 
                                            TALLY VARIABLES
@@ -444,129 +444,129 @@ Base Time Units: Minutes
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         97    
-Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          7    
-Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          7    
-Additional Security Check.TotalTimePerEnti  11.971     (Insuf)    5.0894     20.892          7    
-Extra Exp Check.WaitTimePerEntity           69.766     (Insuf)    51.675     87.857          2    
-Extra Exp Check.TotalTimePerEntity          75.421     (Insuf)    60.402     90.440          2    
-Xray Baggage Check.TotalCostPerEntity       1.5866     (Insuf)    .34526     3.8747         97    
-Additional Security Check.VATimePerEntity   11.971     (Insuf)    5.0894     20.892          7    
-Extra Exp Check.VATimePerEntity             5.6547     (Insuf)    2.5829     8.7265          2    
-Check for Proper Identification.TotalCostP  .80152     (Insuf)    .24532     3.4730        127    
-Check for Proper Identification.TotalTimeP  65.223     (Insuf)    1.3135     115.46        127    
-Extra Exp Check.VACostPerEntity             1.1309     (Insuf)    .51658     1.7453          2    
-Check for Proper Identification.WaitTimePe  61.215     (Insuf)    .00000     110.67        127    
-Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        127    
-Check for Proper Identification.VACostPerE  .80152     (Insuf)    .24532     3.4730        127    
+Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         96    
+Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          3    
+Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          3    
+Additional Security Check.TotalTimePerEnti  .00000     (Insuf)    .00000     .00000          3    
+Extra Exp Check.WaitTimePerEntity           33.547     (Insuf)    23.927     43.167          2    
+Extra Exp Check.TotalTimePerEntity          40.083     (Insuf)    34.121     46.046          2    
+Xray Baggage Check.TotalCostPerEntity       1.5494     (Insuf)    .41798     4.9339         96    
+Additional Security Check.VATimePerEntity   .00000     (Insuf)    .00000     .00000          3    
+Extra Exp Check.VATimePerEntity             6.5365     (Insuf)    2.8794     10.193          2    
+Check for Proper Identification.TotalCostP  .75094     (Insuf)    .17613     2.7977        108    
+Check for Proper Identification.TotalTimeP  29.584     (Insuf)    5.7311     48.686        108    
+Extra Exp Check.VACostPerEntity             1.3073     (Insuf)    .57589     2.0387          2    
+Check for Proper Identification.WaitTimePe  25.830     (Insuf)    .00000     44.367        108    
+Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        108    
+Check for Proper Identification.VACostPerE  .75094     (Insuf)    .17613     2.7977        108    
 Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          2    
-Xray Baggage Check.VACostPerEntity          1.5866     (Insuf)    .34526     3.8747         97    
-Xray Baggage Check.VATimePerEntity          7.9334     (Insuf)    1.7262     19.373         97    
-Extra Exp Check.TotalCostPerEntity          1.1309     (Insuf)    .51658     1.7453          2    
-Check for Proper Identification.VATimePerE  4.0076     (Insuf)    1.2265     17.365        127    
-Xray Baggage Check.TotalTimePerEntity       68.433     (Insuf)    2.1393     120.74         97    
-Xray Baggage Check.WaitTimePerEntity        60.500     (Insuf)    .00000     111.37         97    
-Entity 1.VATime                             12.365     (Insuf)    1.4948     38.130        100    
+Xray Baggage Check.VACostPerEntity          1.5494     (Insuf)    .41798     4.9339         96    
+Xray Baggage Check.VATimePerEntity          7.7470     (Insuf)    2.0899     24.669         96    
+Extra Exp Check.TotalCostPerEntity          1.3073     (Insuf)    .57589     2.0387          2    
+Check for Proper Identification.VATimePerE  3.7547     (Insuf)    .88063     13.988        108    
+Xray Baggage Check.TotalTimePerEntity       33.681     (Insuf)    9.5747     52.843         96    
+Xray Baggage Check.WaitTimePerEntity        25.934     (Insuf)    .00000     43.578         96    
+Entity 1.VATime                             11.297     (Insuf)    1.4448     36.035        100    
 Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        100    
-Entity 1.WaitTime                           109.20     (Insuf)    .00000     221.58        100    
+Entity 1.WaitTime                           50.270     (Insuf)    .00000     112.12        100    
 Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalTime                          121.57     (Insuf)    3.4528     231.79        100    
-Entity 1.VACost                             2.3055     (Insuf)    .29898     6.7818        100    
+Entity 1.TotalTime                          61.567     (Insuf)    17.408     126.73        100    
+Entity 1.VACost                             2.2594     (Insuf)    .28897     7.2070        100    
 Entity 1.NVACost                            .00000     (Insuf)    .00000     .00000        100    
 Entity 1.WaitCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.TranCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherCost                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalCost                          2.3055     (Insuf)    .29898     6.7818        100    
-Extra Exp Check.Queue.WaitingTime           69.766     (Insuf)    51.675     87.857          2    
+Entity 1.TotalCost                          2.2594     (Insuf)    .28897     7.2070        100    
+Extra Exp Check.Queue.WaitingTime           33.547     (Insuf)    23.927     43.167          2    
 Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          2    
-Xray Baggage Check.Queue.WaitingTime        61.042     (Insuf)    .00000     113.60         98    
-Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         98    
-Check for Proper Identification.Queue.Wait  61.627     (Insuf)    .00000     113.98        128    
-Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        128    
+Xray Baggage Check.Queue.WaitingTime        26.157     (Insuf)    .00000     47.562         97    
+Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         97    
+Check for Proper Identification.Queue.Wait  26.001     (Insuf)    .00000     44.536        109    
+Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        109    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Entity 1.WIP                                27.278     (Insuf)    .00000     49.000     43.000    
-Xray Machine.NumberBusy                     1.1876     (Insuf)    .00000     2.0000     1.0000    
+Entity 1.WIP                                11.827     (Insuf)    .00000     19.000     17.000    
+Xray Machine.NumberBusy                     1.2753     (Insuf)    .00000     2.0000     1.0000    
 Xray Machine.NumberScheduled                2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Xray Machine.Utilization                    .59383     (Insuf)    .00000     1.0000     .50000    
-Secondary Screening Kit.NumberBusy          .01743     (Insuf)    .00000     1.0000     .00000    
+Xray Machine.Utilization                    .63768     (Insuf)    .00000     1.0000     .50000    
+Secondary Screening Kit.NumberBusy          .02236     (Insuf)    .00000     1.0000     .00000    
 Secondary Screening Kit.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Secondary Screening Kit.Utilization         .01743     (Insuf)    .00000     1.0000     .00000    
-Transportation Security Officer.NumberBusy  1.9895     (Insuf)    .00000     2.0000     2.0000    
+Secondary Screening Kit.Utilization         .02236     (Insuf)    .00000     1.0000     .00000    
+Transportation Security Officer.NumberBusy  1.9914     (Insuf)    .00000     2.0000     2.0000    
 Transportation Security Officer.NumberSche  2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Transportation Security Officer.Utilizatio  .99479     (Insuf)    .00000     1.0000     1.0000    
-Extra Exp Check.Queue.NumberInQueue         .21507     (Insuf)    .00000     1.0000     .00000    
-Xray Baggage Check.Queue.NumberInQueue      11.576     (Insuf)    .00000     30.000     25.000    
-Check for Proper Identification.Queue.Numb  13.350     (Insuf)    .00000     29.000     15.000    
+Transportation Security Officer.Utilizatio  .99572     (Insuf)    .00000     1.0000     1.0000    
+Extra Exp Check.Queue.NumberInQueue         .11478     (Insuf)    .00000     1.0000     .00000    
+Xray Baggage Check.Queue.NumberInQueue      4.5715     (Insuf)    .00000     8.0000     7.0000    
+Check for Proper Identification.Queue.Numb  5.1501     (Insuf)    .00000     9.0000     8.0000    
 
                                              OUTPUTS
 
 Identifier                                   Value
 _____________________________________________________________
 
-Extra Exp Check Accum VA Time               11.309    
-Xray Baggage Check Total Accum Time         6638.0    
+Extra Exp Check Accum VA Time               13.073    
+Xray Baggage Check Total Accum Time         3233.4    
 Extra Exp Check Number Out                  2.0000    
-Check for Proper Identification Accum VA C  101.79    
-Xray Baggage Check Number Out               97.000    
-Check for Proper Identification Accum VA T  508.96    
+Check for Proper Identification Accum VA C  81.101    
+Xray Baggage Check Number Out               96.000    
+Check for Proper Identification Accum VA T  405.50    
 Xray Baggage Check Accum Wait Cost          .00000    
-Xray Baggage Check Accum Wait Time          5868.5    
-Check for Proper Identification Number Out  127.00    
-Check for Proper Identification Total Accu  101.79    
-Additional Security Check Total Accum Time  83.802    
-Extra Exp Check Total Accum Cost            2.2618    
-Extra Exp Check Total Accum Time            150.84    
-Additional Security Check Accum VA Time     83.802    
+Xray Baggage Check Accum Wait Time          2489.7    
+Check for Proper Identification Number Out  108.00    
+Check for Proper Identification Total Accu  81.101    
+Additional Security Check Total Accum Time  .00000    
+Extra Exp Check Total Accum Cost            2.6146    
+Extra Exp Check Total Accum Time            80.167    
+Additional Security Check Accum VA Time     .00000    
 Additional Security Check Accum VA Cost     .00000    
 Additional Security Check Total Accum Cost  .00000    
-Check for Proper Identification Accum Wait  7774.3    
+Check for Proper Identification Accum Wait  2789.6    
 Check for Proper Identification Accum Wait  .00000    
-Check for Proper Identification Number In   143.00    
+Check for Proper Identification Number In   117.00    
 Extra Exp Check Number In                   2.0000    
-Xray Baggage Check Accum VA Time            769.54    
-Extra Exp Check Accum VA Cost               2.2618    
-Check for Proper Identification Total Accu  8283.3    
-Additional Security Check Number In         8.0000    
-Xray Baggage Check Accum VA Cost            153.90    
-Additional Security Check Number Out        7.0000    
+Xray Baggage Check Accum VA Time            743.71    
+Extra Exp Check Accum VA Cost               2.6146    
+Check for Proper Identification Total Accu  3195.1    
+Additional Security Check Number In         3.0000    
+Xray Baggage Check Accum VA Cost            148.74    
+Additional Security Check Number Out        3.0000    
 Extra Exp Check Accum Wait Cost             .00000    
-Extra Exp Check Accum Wait Time             139.53    
-Xray Baggage Check Total Accum Cost         153.90    
-Xray Baggage Check Number In                123.00    
-Entity 1.NumberIn                           143.00    
+Extra Exp Check Accum Wait Time             67.094    
+Xray Baggage Check Total Accum Cost         148.74    
+Xray Baggage Check Number In                104.00    
+Entity 1.NumberIn                           117.00    
 Entity 1.NumberOut                          100.00    
-Xray Machine.NumberSeized                   98.000    
-Xray Machine.ScheduledUtilization           .59383    
+Xray Machine.NumberSeized                   97.000    
+Xray Machine.ScheduledUtilization           .63768    
 Xray Machine.BusyCost                       .00000    
 Xray Machine.IdleCost                       .00000    
 Xray Machine.UsageCost                      .00000    
 Secondary Screening Kit.NumberSeized        2.0000    
-Secondary Screening Kit.ScheduledUtilizati  .01743    
+Secondary Screening Kit.ScheduledUtilizati  .02236    
 Secondary Screening Kit.BusyCost            .00000    
 Secondary Screening Kit.IdleCost            .00000    
 Secondary Screening Kit.UsageCost           .00000    
-Transportation Security Officer.NumberSeiz  228.00    
-Transportation Security Officer.ScheduledU  .99479    
-Transportation Security Officer.BusyCost    257.96    
-Transportation Security Officer.IdleCost    1.3516    
+Transportation Security Officer.NumberSeiz  208.00    
+Transportation Security Officer.ScheduledU  .99572    
+Transportation Security Officer.BusyCost    232.45    
+Transportation Security Officer.IdleCost    1.0000    
 Transportation Security Officer.UsageCost   .00000    
-All Entities.VACost                         257.96    
+All Entities.VACost                         232.45    
 All Entities.NVACost                        .00000    
 All Entities.WaitCost                       .00000    
 All Entities.TranCost                       .00000    
 All Entities.OtherCost                      .00000    
-All Entities.TotalCost                      257.96    
-All Resources.BusyCost                      257.96    
-All Resources.IdleCost                      1.3516    
+All Entities.TotalCost                      232.45    
+All Resources.BusyCost                      232.45    
+All Resources.IdleCost                      1.0000    
 All Resources.UsageCost                     .00000    
-All Resources.TotalCost                     259.31    
-System.TotalCost                            259.31    
+All Resources.TotalCost                     233.45    
+System.TotalCost                            233.45    
 System.NumberOut                            100.00    
 
 Beginning replication 5 of 7
@@ -579,7 +579,7 @@ Beginning replication 5 of 7
 Project: Airport Security Analysis                                   Run execution date : 6/19/2023
 Analyst: Rockwell Automation                                         Model revision date: 6/19/2023
 
-Replication ended at time      : 579.93076 Minutes 
+Replication ended at time      : 591.95205 Minutes 
 Base Time Units: Minutes
 
                                            TALLY VARIABLES
@@ -587,129 +587,129 @@ Base Time Units: Minutes
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         95    
-Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          6    
-Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          6    
-Additional Security Check.TotalTimePerEnti  13.720     (Insuf)    9.2336     20.310          6    
-Extra Exp Check.WaitTimePerEntity           3.0537     (Insuf)    3.0537     3.0537          1    
-Extra Exp Check.TotalTimePerEntity          9.9382     (Insuf)    9.9382     9.9382          1    
-Xray Baggage Check.TotalCostPerEntity       1.5351     (Insuf)    .30962     4.8707         95    
-Additional Security Check.VATimePerEntity   13.720     (Insuf)    9.2336     20.310          6    
-Extra Exp Check.VATimePerEntity             6.8844     (Insuf)    6.8844     6.8844          1    
-Check for Proper Identification.TotalCostP  .68358     (Insuf)    .17896     1.6975        113    
-Check for Proper Identification.TotalTimeP  31.942     (Insuf)    1.4229     70.682        113    
-Extra Exp Check.VACostPerEntity             1.3768     (Insuf)    1.3768     1.3768          1    
-Check for Proper Identification.WaitTimePe  28.524     (Insuf)    .00000     66.492        113    
-Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        113    
-Check for Proper Identification.VACostPerE  .68358     (Insuf)    .17896     1.6975        113    
-Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          1    
-Xray Baggage Check.VACostPerEntity          1.5351     (Insuf)    .30962     4.8707         95    
-Xray Baggage Check.VATimePerEntity          7.6757     (Insuf)    1.5480     24.353         95    
-Extra Exp Check.TotalCostPerEntity          1.3768     (Insuf)    1.3768     1.3768          1    
-Check for Proper Identification.VATimePerE  3.4178     (Insuf)    .89482     8.4878        113    
-Xray Baggage Check.TotalTimePerEntity       34.505     (Insuf)    2.7916     70.575         95    
-Xray Baggage Check.WaitTimePerEntity        26.829     (Insuf)    .00000     66.541         95    
-Entity 1.VATime                             11.553     (Insuf)    1.7390     42.901        100    
+Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         98    
+Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000         13    
+Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000         13    
+Additional Security Check.TotalTimePerEnti  7.9665     (Insuf)    .00000     15.333         13    
+Extra Exp Check.WaitTimePerEntity           23.033     (Insuf)    10.160     32.524          4    
+Extra Exp Check.TotalTimePerEntity          31.754     (Insuf)    16.105     42.196          4    
+Xray Baggage Check.TotalCostPerEntity       1.5113     (Insuf)    .43042     5.4992         98    
+Additional Security Check.VATimePerEntity   7.9665     (Insuf)    .00000     15.333         13    
+Extra Exp Check.VATimePerEntity             8.7211     (Insuf)    2.9687     14.722          4    
+Check for Proper Identification.TotalCostP  .73270     (Insuf)    .22946     2.1820        109    
+Check for Proper Identification.TotalTimeP  27.850     (Insuf)    2.3714     54.538        109    
+Extra Exp Check.VACostPerEntity             1.7442     (Insuf)    .59375     2.9445          4    
+Check for Proper Identification.WaitTimePe  24.186     (Insuf)    .00000     49.649        109    
+Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        109    
+Check for Proper Identification.VACostPerE  .73270     (Insuf)    .22946     2.1820        109    
+Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          4    
+Xray Baggage Check.VACostPerEntity          1.5113     (Insuf)    .43042     5.4992         98    
+Xray Baggage Check.VATimePerEntity          7.5566     (Insuf)    2.1520     27.496         98    
+Extra Exp Check.TotalCostPerEntity          1.7442     (Insuf)    .59375     2.9445          4    
+Check for Proper Identification.VATimePerE  3.6635     (Insuf)    1.1473     10.910        109    
+Xray Baggage Check.TotalTimePerEntity       31.114     (Insuf)    6.3843     54.690         98    
+Xray Baggage Check.WaitTimePerEntity        23.557     (Insuf)    .00000     49.382         98    
+Entity 1.VATime                             12.399     (Insuf)    1.5178     37.322        100    
 Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        100    
-Entity 1.WaitTime                           50.202     (Insuf)    .00000     112.76        100    
+Entity 1.WaitTime                           45.794     (Insuf)    .00000     96.545        100    
 Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalTime                          61.756     (Insuf)    3.5345     119.21        100    
-Entity 1.VACost                             2.1460     (Insuf)    .34781     6.1332        100    
+Entity 1.TotalTime                          58.193     (Insuf)    15.386     118.37        100    
+Entity 1.VACost                             2.2727     (Insuf)    .30357     6.8762        100    
 Entity 1.NVACost                            .00000     (Insuf)    .00000     .00000        100    
 Entity 1.WaitCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.TranCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherCost                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalCost                          2.1460     (Insuf)    .34781     6.1332        100    
-Extra Exp Check.Queue.WaitingTime           3.0537     (Insuf)    3.0537     3.0537          1    
-Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          1    
-Xray Baggage Check.Queue.WaitingTime        26.829     (Insuf)    .00000     66.541         95    
-Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         95    
-Check for Proper Identification.Queue.Wait  29.199     (Insuf)    .00000     68.380        115    
-Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        115    
+Entity 1.TotalCost                          2.2727     (Insuf)    .30357     6.8762        100    
+Extra Exp Check.Queue.WaitingTime           23.033     (Insuf)    10.160     32.524          4    
+Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          4    
+Xray Baggage Check.Queue.WaitingTime        23.767     (Insuf)    .00000     49.382         99    
+Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         99    
+Check for Proper Identification.Queue.Wait  24.356     (Insuf)    .00000     49.649        110    
+Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        110    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Entity 1.WIP                                13.589     (Insuf)    .00000     29.000     28.000    
-Xray Machine.NumberBusy                     1.2573     (Insuf)    .00000     2.0000     .00000    
+Entity 1.WIP                                11.363     (Insuf)    .00000     20.000     19.000    
+Xray Machine.NumberBusy                     1.2510     (Insuf)    .00000     2.0000     1.0000    
 Xray Machine.NumberScheduled                2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Xray Machine.Utilization                    .62869     (Insuf)    .00000     1.0000     .00000    
-Secondary Screening Kit.NumberBusy          .01187     (Insuf)    .00000     1.0000     .00000    
+Xray Machine.Utilization                    .62552     (Insuf)    .00000     1.0000     .50000    
+Secondary Screening Kit.NumberBusy          .05893     (Insuf)    .00000     1.0000     .00000    
 Secondary Screening Kit.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Secondary Screening Kit.Utilization         .01187     (Insuf)    .00000     1.0000     .00000    
-Transportation Security Officer.NumberBusy  1.9381     (Insuf)    .00000     2.0000     2.0000    
+Secondary Screening Kit.Utilization         .05893     (Insuf)    .00000     1.0000     .00000    
+Transportation Security Officer.NumberBusy  1.9915     (Insuf)    .00000     2.0000     2.0000    
 Transportation Security Officer.NumberSche  2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Transportation Security Officer.Utilizatio  .96909     (Insuf)    .00000     1.0000     1.0000    
-Extra Exp Check.Queue.NumberInQueue         .00527     (Insuf)    .00000     1.0000     .00000    
-Xray Baggage Check.Queue.NumberInQueue      4.9941     (Insuf)    .00000     13.000     13.000    
-Check for Proper Identification.Queue.Numb  6.5096     (Insuf)    .00000     18.000     13.000    
+Transportation Security Officer.Utilizatio  .99578     (Insuf)    .00000     1.0000     1.0000    
+Extra Exp Check.Queue.NumberInQueue         .16265     (Insuf)    .00000     1.0000     1.0000    
+Xray Baggage Check.Queue.NumberInQueue      4.1742     (Insuf)    .00000     8.0000     7.0000    
+Check for Proper Identification.Queue.Numb  4.8597     (Insuf)    .00000     10.000     9.0000    
 
                                              OUTPUTS
 
 Identifier                                   Value
 _____________________________________________________________
 
-Extra Exp Check Accum VA Time               6.8844    
-Xray Baggage Check Total Accum Time         3277.9    
-Extra Exp Check Number Out                  1.0000    
-Check for Proper Identification Accum VA C  77.244    
-Xray Baggage Check Number Out               95.000    
-Check for Proper Identification Accum VA T  386.22    
+Extra Exp Check Accum VA Time               34.884    
+Xray Baggage Check Total Accum Time         3049.1    
+Extra Exp Check Number Out                  4.0000    
+Check for Proper Identification Accum VA C  79.864    
+Xray Baggage Check Number Out               98.000    
+Check for Proper Identification Accum VA T  399.32    
 Xray Baggage Check Accum Wait Cost          .00000    
-Xray Baggage Check Accum Wait Time          2548.7    
-Check for Proper Identification Number Out  113.00    
-Check for Proper Identification Total Accu  77.244    
-Additional Security Check Total Accum Time  82.323    
-Extra Exp Check Total Accum Cost            1.3768    
-Extra Exp Check Total Accum Time            9.9382    
-Additional Security Check Accum VA Time     82.323    
+Xray Baggage Check Accum Wait Time          2308.6    
+Check for Proper Identification Number Out  109.00    
+Check for Proper Identification Total Accu  79.864    
+Additional Security Check Total Accum Time  103.56    
+Extra Exp Check Total Accum Cost            6.9769    
+Extra Exp Check Total Accum Time            127.01    
+Additional Security Check Accum VA Time     103.56    
 Additional Security Check Accum VA Cost     .00000    
 Additional Security Check Total Accum Cost  .00000    
-Check for Proper Identification Accum Wait  3223.2    
+Check for Proper Identification Accum Wait  2636.3    
 Check for Proper Identification Accum Wait  .00000    
-Check for Proper Identification Number In   128.00    
-Extra Exp Check Number In                   1.0000    
-Xray Baggage Check Accum VA Time            729.19    
-Extra Exp Check Accum VA Cost               1.3768    
-Check for Proper Identification Total Accu  3609.4    
-Additional Security Check Number In         6.0000    
-Xray Baggage Check Accum VA Cost            145.83    
-Additional Security Check Number Out        6.0000    
+Check for Proper Identification Number In   119.00    
+Extra Exp Check Number In                   5.0000    
+Xray Baggage Check Accum VA Time            740.55    
+Extra Exp Check Accum VA Cost               6.9769    
+Check for Proper Identification Total Accu  3035.6    
+Additional Security Check Number In         13.000    
+Xray Baggage Check Accum VA Cost            148.11    
+Additional Security Check Number Out        13.000    
 Extra Exp Check Accum Wait Cost             .00000    
-Extra Exp Check Accum Wait Time             3.0537    
-Xray Baggage Check Total Accum Cost         145.83    
-Xray Baggage Check Number In                108.00    
-Entity 1.NumberIn                           128.00    
+Extra Exp Check Accum Wait Time             92.134    
+Xray Baggage Check Total Accum Cost         148.11    
+Xray Baggage Check Number In                106.00    
+Entity 1.NumberIn                           119.00    
 Entity 1.NumberOut                          100.00    
-Xray Machine.NumberSeized                   95.000    
-Xray Machine.ScheduledUtilization           .62869    
+Xray Machine.NumberSeized                   99.000    
+Xray Machine.ScheduledUtilization           .62552    
 Xray Machine.BusyCost                       .00000    
 Xray Machine.IdleCost                       .00000    
 Xray Machine.UsageCost                      .00000    
-Secondary Screening Kit.NumberSeized        1.0000    
-Secondary Screening Kit.ScheduledUtilizati  .01187    
+Secondary Screening Kit.NumberSeized        4.0000    
+Secondary Screening Kit.ScheduledUtilizati  .05893    
 Secondary Screening Kit.BusyCost            .00000    
 Secondary Screening Kit.IdleCost            .00000    
 Secondary Screening Kit.UsageCost           .00000    
-Transportation Security Officer.NumberSeiz  211.00    
-Transportation Security Officer.ScheduledU  .96909    
-Transportation Security Officer.BusyCost    224.45    
-Transportation Security Officer.IdleCost    7.1698    
+Transportation Security Officer.NumberSeiz  213.00    
+Transportation Security Officer.ScheduledU  .99578    
+Transportation Security Officer.BusyCost    234.95    
+Transportation Security Officer.IdleCost    1.0000    
 Transportation Security Officer.UsageCost   .00000    
-All Entities.VACost                         224.45    
+All Entities.VACost                         234.95    
 All Entities.NVACost                        .00000    
 All Entities.WaitCost                       .00000    
 All Entities.TranCost                       .00000    
 All Entities.OtherCost                      .00000    
-All Entities.TotalCost                      224.45    
-All Resources.BusyCost                      224.45    
-All Resources.IdleCost                      7.1698    
+All Entities.TotalCost                      234.95    
+All Resources.BusyCost                      234.95    
+All Resources.IdleCost                      1.0000    
 All Resources.UsageCost                     .00000    
-All Resources.TotalCost                     231.62    
-System.TotalCost                            231.62    
+All Resources.TotalCost                     235.95    
+System.TotalCost                            235.95    
 System.NumberOut                            100.00    
 
 Beginning replication 6 of 7
@@ -722,7 +722,7 @@ Beginning replication 6 of 7
 Project: Airport Security Analysis                                   Run execution date : 6/19/2023
 Analyst: Rockwell Automation                                         Model revision date: 6/19/2023
 
-Replication ended at time      : 613.02364 Minutes 
+Replication ended at time      : 537.39208 Minutes 
 Base Time Units: Minutes
 
                                            TALLY VARIABLES
@@ -730,129 +730,129 @@ Base Time Units: Minutes
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         99    
+Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         95    
 Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          5    
 Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          5    
-Additional Security Check.TotalTimePerEnti  6.6585     (Insuf)    4.3674     10.205          5    
-Extra Exp Check.WaitTimePerEntity           45.823     (Insuf)    45.688     45.994          3    
-Extra Exp Check.TotalTimePerEntity          65.467     (Insuf)    49.918     90.644          3    
-Xray Baggage Check.TotalCostPerEntity       1.5319     (Insuf)    .41868     4.9057         99    
-Additional Security Check.VATimePerEntity   6.6585     (Insuf)    4.3674     10.205          5    
-Extra Exp Check.VATimePerEntity             19.644     (Insuf)    4.2295     44.857          3    
-Check for Proper Identification.TotalCostP  .70995     (Insuf)    .16957     2.2350        114    
-Check for Proper Identification.TotalTimeP  35.333     (Insuf)    2.1558     84.623        114    
-Extra Exp Check.VACostPerEntity             3.9288     (Insuf)    .84590     8.9715          3    
-Check for Proper Identification.WaitTimePe  31.783     (Insuf)    .00000     78.124        114    
-Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        114    
-Check for Proper Identification.VACostPerE  .70995     (Insuf)    .16957     2.2350        114    
-Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          3    
-Xray Baggage Check.VACostPerEntity          1.5319     (Insuf)    .41868     4.9057         99    
-Xray Baggage Check.VATimePerEntity          7.6597     (Insuf)    2.0933     24.528         99    
-Extra Exp Check.TotalCostPerEntity          3.9288     (Insuf)    .84590     8.9715          3    
-Check for Proper Identification.VATimePerE  3.5497     (Insuf)    .84786     11.175        114    
-Xray Baggage Check.TotalTimePerEntity       39.016     (Insuf)    2.2748     86.293         99    
-Xray Baggage Check.WaitTimePerEntity        31.357     (Insuf)    .00000     79.844         99    
-Entity 1.VATime                             12.112     (Insuf)    2.6669     77.968        100    
+Additional Security Check.TotalTimePerEnti  7.5085     (Insuf)    .00000     17.236          5    
+Extra Exp Check.WaitTimePerEntity           13.949     (Insuf)    11.016     16.882          2    
+Extra Exp Check.TotalTimePerEntity          19.027     (Insuf)    12.355     25.699          2    
+Xray Baggage Check.TotalCostPerEntity       1.4483     (Insuf)    .38840     5.1174         95    
+Additional Security Check.VATimePerEntity   7.5085     (Insuf)    .00000     17.236          5    
+Extra Exp Check.VATimePerEntity             5.0780     (Insuf)    1.3390     8.8169          2    
+Check for Proper Identification.TotalCostP  .69268     (Insuf)    .16957     1.9793        104    
+Check for Proper Identification.TotalTimeP  17.385     (Insuf)    1.4579     33.599        104    
+Extra Exp Check.VACostPerEntity             1.0156     (Insuf)    .26781     1.7633          2    
+Check for Proper Identification.WaitTimePe  13.922     (Insuf)    .00000     27.219        104    
+Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        104    
+Check for Proper Identification.VACostPerE  .69268     (Insuf)    .16957     1.9793        104    
+Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          2    
+Xray Baggage Check.VACostPerEntity          1.4483     (Insuf)    .38840     5.1174         95    
+Xray Baggage Check.VATimePerEntity          7.2418     (Insuf)    1.9419     25.586         95    
+Extra Exp Check.TotalCostPerEntity          1.0156     (Insuf)    .26781     1.7633          2    
+Check for Proper Identification.VATimePerE  3.4633     (Insuf)    .84786     9.8968        104    
+Xray Baggage Check.TotalTimePerEntity       20.656     (Insuf)    3.2888     34.931         95    
+Xray Baggage Check.WaitTimePerEntity        13.414     (Insuf)    .00000     27.123         95    
+Entity 1.VATime                             10.775     (Insuf)    1.6917     34.000        100    
 Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        100    
-Entity 1.WaitTime                           60.290     (Insuf)    .66532     173.03        100    
+Entity 1.WaitTime                           26.785     (Insuf)    .00000     55.350        100    
 Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalTime                          72.403     (Insuf)    8.9253     193.84        100    
-Entity 1.VACost                             2.3559     (Insuf)    .53340     15.593        100    
+Entity 1.TotalTime                          37.561     (Insuf)    4.7468     70.802        100    
+Entity 1.VACost                             2.0801     (Insuf)    .33835     6.8001        100    
 Entity 1.NVACost                            .00000     (Insuf)    .00000     .00000        100    
 Entity 1.WaitCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.TranCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherCost                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalCost                          2.3559     (Insuf)    .53340     15.593        100    
-Extra Exp Check.Queue.WaitingTime           45.823     (Insuf)    45.688     45.994          3    
-Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          3    
-Xray Baggage Check.Queue.WaitingTime        31.357     (Insuf)    .00000     79.844         99    
-Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         99    
-Check for Proper Identification.Queue.Wait  32.477     (Insuf)    .00000     78.124        116    
-Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        116    
+Entity 1.TotalCost                          2.0801     (Insuf)    .33835     6.8001        100    
+Extra Exp Check.Queue.WaitingTime           13.949     (Insuf)    11.016     16.882          2    
+Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          2    
+Xray Baggage Check.Queue.WaitingTime        13.392     (Insuf)    .00000     27.123         96    
+Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         96    
+Check for Proper Identification.Queue.Wait  13.912     (Insuf)    .00000     27.219        105    
+Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        105    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Entity 1.WIP                                15.174     (Insuf)    .00000     32.000     30.000    
-Xray Machine.NumberBusy                     1.2370     (Insuf)    .00000     2.0000     .00000    
+Entity 1.WIP                                7.3137     (Insuf)    .00000     12.000     8.0000    
+Xray Machine.NumberBusy                     1.2850     (Insuf)    .00000     2.0000     1.0000    
 Xray Machine.NumberScheduled                2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Xray Machine.Utilization                    .61850     (Insuf)    .00000     1.0000     .00000    
-Secondary Screening Kit.NumberBusy          .09613     (Insuf)    .00000     1.0000     .00000    
+Xray Machine.Utilization                    .64253     (Insuf)    .00000     1.0000     .50000    
+Secondary Screening Kit.NumberBusy          .01890     (Insuf)    .00000     1.0000     .00000    
 Secondary Screening Kit.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Secondary Screening Kit.Utilization         .09613     (Insuf)    .00000     1.0000     .00000    
-Transportation Security Officer.NumberBusy  1.9949     (Insuf)    .00000     2.0000     2.0000    
+Secondary Screening Kit.Utilization         .01890     (Insuf)    .00000     1.0000     .00000    
+Transportation Security Officer.NumberBusy  1.9826     (Insuf)    .00000     2.0000     2.0000    
 Transportation Security Officer.NumberSche  2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Transportation Security Officer.Utilizatio  .99749     (Insuf)    .00000     1.0000     1.0000    
-Extra Exp Check.Queue.NumberInQueue         .22425     (Insuf)    .00000     1.0000     .00000    
-Xray Baggage Check.Queue.NumberInQueue      5.8574     (Insuf)    .00000     14.000     14.000    
-Check for Proper Identification.Queue.Numb  7.0437     (Insuf)    .00000     19.000     14.000    
+Transportation Security Officer.Utilizatio  .99133     (Insuf)    .00000     1.0000     1.0000    
+Extra Exp Check.Queue.NumberInQueue         .05192     (Insuf)    .00000     1.0000     .00000    
+Xray Baggage Check.Queue.NumberInQueue      2.4497     (Insuf)    .00000     5.0000     3.0000    
+Check for Proper Identification.Queue.Numb  2.7595     (Insuf)    .00000     6.0000     3.0000    
 
                                              OUTPUTS
 
 Identifier                                   Value
 _____________________________________________________________
 
-Extra Exp Check Accum VA Time               58.932    
-Xray Baggage Check Total Accum Time         3862.6    
-Extra Exp Check Number Out                  3.0000    
-Check for Proper Identification Accum VA C  80.934    
-Xray Baggage Check Number Out               99.000    
-Check for Proper Identification Accum VA T  404.67    
+Extra Exp Check Accum VA Time               10.156    
+Xray Baggage Check Total Accum Time         1962.3    
+Extra Exp Check Number Out                  2.0000    
+Check for Proper Identification Accum VA C  72.038    
+Xray Baggage Check Number Out               95.000    
+Check for Proper Identification Accum VA T  360.19    
 Xray Baggage Check Accum Wait Cost          .00000    
-Xray Baggage Check Accum Wait Time          3104.3    
-Check for Proper Identification Number Out  114.00    
-Check for Proper Identification Total Accu  80.934    
-Additional Security Check Total Accum Time  33.292    
-Extra Exp Check Total Accum Cost            11.786    
-Extra Exp Check Total Accum Time            196.40    
-Additional Security Check Accum VA Time     33.292    
+Xray Baggage Check Accum Wait Time          1274.4    
+Check for Proper Identification Number Out  104.00    
+Check for Proper Identification Total Accu  72.038    
+Additional Security Check Total Accum Time  37.542    
+Extra Exp Check Total Accum Cost            2.0312    
+Extra Exp Check Total Accum Time            38.055    
+Additional Security Check Accum VA Time     37.542    
 Additional Security Check Accum VA Cost     .00000    
 Additional Security Check Total Accum Cost  .00000    
-Check for Proper Identification Accum Wait  3623.2    
+Check for Proper Identification Accum Wait  1447.9    
 Check for Proper Identification Accum Wait  .00000    
-Check for Proper Identification Number In   130.00    
-Extra Exp Check Number In                   3.0000    
-Xray Baggage Check Accum VA Time            758.31    
-Extra Exp Check Accum VA Cost               11.786    
-Check for Proper Identification Total Accu  4027.9    
+Check for Proper Identification Number In   108.00    
+Extra Exp Check Number In                   2.0000    
+Xray Baggage Check Accum VA Time            687.97    
+Extra Exp Check Accum VA Cost               2.0312    
+Check for Proper Identification Total Accu  1808.1    
 Additional Security Check Number In         5.0000    
-Xray Baggage Check Accum VA Cost            151.66    
+Xray Baggage Check Accum VA Cost            137.59    
 Additional Security Check Number Out        5.0000    
 Extra Exp Check Accum Wait Cost             .00000    
-Extra Exp Check Accum Wait Time             137.46    
-Xray Baggage Check Total Accum Cost         151.66    
-Xray Baggage Check Number In                113.00    
-Entity 1.NumberIn                           130.00    
+Extra Exp Check Accum Wait Time             27.899    
+Xray Baggage Check Total Accum Cost         137.59    
+Xray Baggage Check Number In                99.000    
+Entity 1.NumberIn                           108.00    
 Entity 1.NumberOut                          100.00    
-Xray Machine.NumberSeized                   99.000    
-Xray Machine.ScheduledUtilization           .61850    
+Xray Machine.NumberSeized                   96.000    
+Xray Machine.ScheduledUtilization           .64253    
 Xray Machine.BusyCost                       .00000    
 Xray Machine.IdleCost                       .00000    
 Xray Machine.UsageCost                      .00000    
-Secondary Screening Kit.NumberSeized        3.0000    
-Secondary Screening Kit.ScheduledUtilizati  .09613    
+Secondary Screening Kit.NumberSeized        2.0000    
+Secondary Screening Kit.ScheduledUtilizati  .01890    
 Secondary Screening Kit.BusyCost            .00000    
 Secondary Screening Kit.IdleCost            .00000    
 Secondary Screening Kit.UsageCost           .00000    
-Transportation Security Officer.NumberSeiz  218.00    
-Transportation Security Officer.ScheduledU  .99749    
-Transportation Security Officer.BusyCost    244.38    
-Transportation Security Officer.IdleCost    .61608    
+Transportation Security Officer.NumberSeiz  203.00    
+Transportation Security Officer.ScheduledU  .99133    
+Transportation Security Officer.BusyCost    211.66    
+Transportation Security Officer.IdleCost    1.8634    
 Transportation Security Officer.UsageCost   .00000    
-All Entities.VACost                         244.38    
+All Entities.VACost                         211.66    
 All Entities.NVACost                        .00000    
 All Entities.WaitCost                       .00000    
 All Entities.TranCost                       .00000    
 All Entities.OtherCost                      .00000    
-All Entities.TotalCost                      244.38    
-All Resources.BusyCost                      244.38    
-All Resources.IdleCost                      .61608    
+All Entities.TotalCost                      211.66    
+All Resources.BusyCost                      211.66    
+All Resources.IdleCost                      1.8634    
 All Resources.UsageCost                     .00000    
-All Resources.TotalCost                     244.99    
-System.TotalCost                            244.99    
+All Resources.TotalCost                     213.52    
+System.TotalCost                            213.52    
 System.NumberOut                            100.00    
 
 Beginning replication 7 of 7
@@ -865,7 +865,7 @@ Beginning replication 7 of 7
 Project: Airport Security Analysis                                   Run execution date : 6/19/2023
 Analyst: Rockwell Automation                                         Model revision date: 6/19/2023
 
-Replication ended at time      : 764.41182 Minutes 
+Replication ended at time      : 629.36224 Minutes 
 Base Time Units: Minutes
 
                                            TALLY VARIABLES
@@ -873,129 +873,129 @@ Base Time Units: Minutes
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         98    
-Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          4    
-Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          4    
-Additional Security Check.TotalTimePerEnti  11.719     (Insuf)    5.9334     18.071          4    
-Extra Exp Check.WaitTimePerEntity           85.859     (Insuf)    30.950     126.83          6    
-Extra Exp Check.TotalTimePerEntity          107.58     (Insuf)    69.669     154.41          6    
-Xray Baggage Check.TotalCostPerEntity       1.7448     (Insuf)    .43804     4.9407         98    
-Additional Security Check.VATimePerEntity   11.719     (Insuf)    5.9334     18.071          4    
-Extra Exp Check.VATimePerEntity             21.729     (Insuf)    2.9521     38.718          6    
-Check for Proper Identification.TotalCostP  .87905     (Insuf)    .19475     2.2524        121    
-Check for Proper Identification.TotalTimeP  81.871     (Insuf)    6.7290     153.70        121    
-Extra Exp Check.VACostPerEntity             4.3459     (Insuf)    .59042     7.7437          6    
-Check for Proper Identification.WaitTimePe  77.476     (Insuf)    .00000     147.69        121    
-Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        121    
-Check for Proper Identification.VACostPerE  .87905     (Insuf)    .19475     2.2524        121    
-Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          6    
-Xray Baggage Check.VACostPerEntity          1.7448     (Insuf)    .43804     4.9407         98    
-Xray Baggage Check.VATimePerEntity          8.7239     (Insuf)    2.1901     24.703         98    
-Extra Exp Check.TotalCostPerEntity          4.3459     (Insuf)    .59042     7.7437          6    
-Check for Proper Identification.VATimePerE  4.3952     (Insuf)    .97374     11.262        121    
-Xray Baggage Check.TotalTimePerEntity       89.667     (Insuf)    8.2730     155.98         98    
-Xray Baggage Check.WaitTimePerEntity        80.943     (Insuf)    .00000     150.65         98    
-Entity 1.VATime                             14.704     (Insuf)    2.6102     53.439        100    
+Xray Baggage Check.WaitCostPerEntity        .00000     (Insuf)    .00000     .00000         93    
+Additional Security Check.VACostPerEntity   .00000     (Insuf)    .00000     .00000          6    
+Additional Security Check.TotalCostPerEnti  .00000     (Insuf)    .00000     .00000          6    
+Additional Security Check.TotalTimePerEnti  6.5936     (Insuf)    .00000     25.766          6    
+Extra Exp Check.WaitTimePerEntity           19.603     (Insuf)    1.8016     39.255          5    
+Extra Exp Check.TotalTimePerEntity          29.969     (Insuf)    13.436     50.493          5    
+Xray Baggage Check.TotalCostPerEntity       1.5750     (Insuf)    .34020     4.1144         93    
+Additional Security Check.VATimePerEntity   6.5936     (Insuf)    .00000     25.766          6    
+Extra Exp Check.VATimePerEntity             10.365     (Insuf)    7.8020     11.779          5    
+Check for Proper Identification.TotalCostP  .83239     (Insuf)    .18971     2.0746        112    
+Check for Proper Identification.TotalTimeP  39.750     (Insuf)    2.3606     73.917        112    
+Extra Exp Check.VACostPerEntity             2.0731     (Insuf)    1.5604     2.3558          5    
+Check for Proper Identification.WaitTimePe  35.588     (Insuf)    .00000     72.052        112    
+Check for Proper Identification.WaitCostPe  .00000     (Insuf)    .00000     .00000        112    
+Check for Proper Identification.VACostPerE  .83239     (Insuf)    .18971     2.0746        112    
+Extra Exp Check.WaitCostPerEntity           .00000     (Insuf)    .00000     .00000          5    
+Xray Baggage Check.VACostPerEntity          1.5750     (Insuf)    .34020     4.1144         93    
+Xray Baggage Check.VATimePerEntity          7.8754     (Insuf)    1.7010     20.572         93    
+Extra Exp Check.TotalCostPerEntity          2.0731     (Insuf)    1.5604     2.3558          5    
+Check for Proper Identification.VATimePerE  4.1619     (Insuf)    .94856     10.373        112    
+Xray Baggage Check.TotalTimePerEntity       43.918     (Insuf)    4.7422     79.741         93    
+Xray Baggage Check.WaitTimePerEntity        36.042     (Insuf)    .00000     71.226         93    
+Entity 1.VATime                             12.437     (Insuf)    1.4765     31.351        100    
 Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        100    
-Entity 1.WaitTime                           149.84     (Insuf)    .00000     357.38        100    
+Entity 1.WaitTime                           66.455     (Insuf)    .00000     126.27        100    
 Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalTime                          164.54     (Insuf)    15.002     375.58        100    
-Entity 1.VACost                             2.8472     (Insuf)    .52205     10.687        100    
+Entity 1.TotalTime                          78.892     (Insuf)    5.4489     142.73        100    
+Entity 1.VACost                             2.4083     (Insuf)    .29531     5.8306        100    
 Entity 1.NVACost                            .00000     (Insuf)    .00000     .00000        100    
 Entity 1.WaitCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.TranCost                           .00000     (Insuf)    .00000     .00000        100    
 Entity 1.OtherCost                          .00000     (Insuf)    .00000     .00000        100    
-Entity 1.TotalCost                          2.8472     (Insuf)    .52205     10.687        100    
-Extra Exp Check.Queue.WaitingTime           85.859     (Insuf)    30.950     126.83          6    
-Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          6    
-Xray Baggage Check.Queue.WaitingTime        81.883     (Insuf)    .00000     150.65        100    
-Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000        100    
-Check for Proper Identification.Queue.Wait  77.476     (Insuf)    .00000     147.69        121    
-Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        121    
+Entity 1.TotalCost                          2.4083     (Insuf)    .29531     5.8306        100    
+Extra Exp Check.Queue.WaitingTime           19.603     (Insuf)    1.8016     39.255          5    
+Extra Exp Check.Queue.WaitingCost           .00000     (Insuf)    .00000     .00000          5    
+Xray Baggage Check.Queue.WaitingTime        36.780     (Insuf)    .00000     72.541         95    
+Xray Baggage Check.Queue.WaitingCost        .00000     (Insuf)    .00000     .00000         95    
+Check for Proper Identification.Queue.Wait  35.588     (Insuf)    .00000     72.052        112    
+Check for Proper Identification.Queue.Wait  .00000     (Insuf)    .00000     .00000        112    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Entity 1.WIP                                29.486     (Insuf)    .00000     46.000     42.000    
-Xray Machine.NumberBusy                     1.1335     (Insuf)    .00000     2.0000     2.0000    
+Entity 1.WIP                                15.313     (Insuf)    .00000     27.000     26.000    
+Xray Machine.NumberBusy                     1.1655     (Insuf)    .00000     2.0000     2.0000    
 Xray Machine.NumberScheduled                2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Xray Machine.Utilization                    .56675     (Insuf)    .00000     1.0000     1.0000    
-Secondary Screening Kit.NumberBusy          .17056     (Insuf)    .00000     1.0000     .00000    
+Xray Machine.Utilization                    .58278     (Insuf)    .00000     1.0000     1.0000    
+Secondary Screening Kit.NumberBusy          .08235     (Insuf)    .00000     1.0000     .00000    
 Secondary Screening Kit.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Secondary Screening Kit.Utilization         .17056     (Insuf)    .00000     1.0000     .00000    
-Transportation Security Officer.NumberBusy  1.9997     (Insuf)    .00000     2.0000     2.0000    
+Secondary Screening Kit.Utilization         .08235     (Insuf)    .00000     1.0000     .00000    
+Transportation Security Officer.NumberBusy  1.9885     (Insuf)    .00000     2.0000     2.0000    
 Transportation Security Officer.NumberSche  2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Transportation Security Officer.Utilizatio  .99990     (Insuf)    .00000     1.0000     1.0000    
-Extra Exp Check.Queue.NumberInQueue         .78481     (Insuf)    .00000     3.0000     1.0000    
-Xray Baggage Check.Queue.NumberInQueue      12.356     (Insuf)    .00000     24.000     18.000    
-Check for Proper Identification.Queue.Numb  14.283     (Insuf)    .00000     24.000     21.000    
+Transportation Security Officer.Utilizatio  .99428     (Insuf)    .00000     1.0000     1.0000    
+Extra Exp Check.Queue.NumberInQueue         .15574     (Insuf)    .00000     1.0000     .00000    
+Xray Baggage Check.Queue.NumberInQueue      5.9530     (Insuf)    .00000     12.000     10.000    
+Check for Proper Identification.Queue.Numb  7.1531     (Insuf)    .00000     15.000     14.000    
 
                                              OUTPUTS
 
 Identifier                                   Value
 _____________________________________________________________
 
-Extra Exp Check Accum VA Time               130.37    
-Xray Baggage Check Total Accum Time         8787.4    
-Extra Exp Check Number Out                  6.0000    
-Check for Proper Identification Accum VA C  106.36    
-Xray Baggage Check Number Out               98.000    
-Check for Proper Identification Accum VA T  531.82    
+Extra Exp Check Accum VA Time               51.828    
+Xray Baggage Check Total Accum Time         4084.4    
+Extra Exp Check Number Out                  5.0000    
+Check for Proper Identification Accum VA C  93.227    
+Xray Baggage Check Number Out               93.000    
+Check for Proper Identification Accum VA T  466.13    
 Xray Baggage Check Accum Wait Cost          .00000    
-Xray Baggage Check Accum Wait Time          7932.4    
-Check for Proper Identification Number Out  121.00    
-Check for Proper Identification Total Accu  106.36    
-Additional Security Check Total Accum Time  46.877    
-Extra Exp Check Total Accum Cost            26.075    
-Extra Exp Check Total Accum Time            645.53    
-Additional Security Check Accum VA Time     46.877    
+Xray Baggage Check Accum Wait Time          3351.9    
+Check for Proper Identification Number Out  112.00    
+Check for Proper Identification Total Accu  93.227    
+Additional Security Check Total Accum Time  39.562    
+Extra Exp Check Total Accum Cost            10.365    
+Extra Exp Check Total Accum Time            149.84    
+Additional Security Check Accum VA Time     39.562    
 Additional Security Check Accum VA Cost     .00000    
 Additional Security Check Total Accum Cost  .00000    
-Check for Proper Identification Accum Wait  9374.6    
+Check for Proper Identification Accum Wait  3985.8    
 Check for Proper Identification Accum Wait  .00000    
-Check for Proper Identification Number In   142.00    
-Extra Exp Check Number In                   7.0000    
-Xray Baggage Check Accum VA Time            854.95    
-Extra Exp Check Accum VA Cost               26.075    
-Check for Proper Identification Total Accu  9906.4    
-Additional Security Check Number In         4.0000    
-Xray Baggage Check Accum VA Cost            170.99    
-Additional Security Check Number Out        4.0000    
+Check for Proper Identification Number In   126.00    
+Extra Exp Check Number In                   5.0000    
+Xray Baggage Check Accum VA Time            732.41    
+Extra Exp Check Accum VA Cost               10.365    
+Check for Proper Identification Total Accu  4452.0    
+Additional Security Check Number In         6.0000    
+Xray Baggage Check Accum VA Cost            146.48    
+Additional Security Check Number Out        6.0000    
 Extra Exp Check Accum Wait Cost             .00000    
-Extra Exp Check Accum Wait Time             515.15    
-Xray Baggage Check Total Accum Cost         170.99    
-Xray Baggage Check Number In                118.00    
-Entity 1.NumberIn                           142.00    
+Extra Exp Check Accum Wait Time             98.017    
+Xray Baggage Check Total Accum Cost         146.48    
+Xray Baggage Check Number In                105.00    
+Entity 1.NumberIn                           126.00    
 Entity 1.NumberOut                          100.00    
-Xray Machine.NumberSeized                   100.00    
-Xray Machine.ScheduledUtilization           .56675    
+Xray Machine.NumberSeized                   95.000    
+Xray Machine.ScheduledUtilization           .58278    
 Xray Machine.BusyCost                       .00000    
 Xray Machine.IdleCost                       .00000    
 Xray Machine.UsageCost                      .00000    
-Secondary Screening Kit.NumberSeized        6.0000    
-Secondary Screening Kit.ScheduledUtilizati  .17056    
+Secondary Screening Kit.NumberSeized        5.0000    
+Secondary Screening Kit.ScheduledUtilizati  .08235    
 Secondary Screening Kit.BusyCost            .00000    
 Secondary Screening Kit.IdleCost            .00000    
 Secondary Screening Kit.UsageCost           .00000    
-Transportation Security Officer.NumberSeiz  227.00    
-Transportation Security Officer.ScheduledU  .99990    
-Transportation Security Officer.BusyCost    303.43    
-Transportation Security Officer.IdleCost    .03200    
+Transportation Security Officer.NumberSeiz  212.00    
+Transportation Security Officer.ScheduledU  .99428    
+Transportation Security Officer.BusyCost    250.07    
+Transportation Security Officer.IdleCost    1.4404    
 Transportation Security Officer.UsageCost   .00000    
-All Entities.VACost                         303.43    
+All Entities.VACost                         250.07    
 All Entities.NVACost                        .00000    
 All Entities.WaitCost                       .00000    
 All Entities.TranCost                       .00000    
 All Entities.OtherCost                      .00000    
-All Entities.TotalCost                      303.43    
-All Resources.BusyCost                      303.43    
-All Resources.IdleCost                      .03200    
+All Entities.TotalCost                      250.07    
+All Resources.BusyCost                      250.07    
+All Resources.IdleCost                      1.4404    
 All Resources.UsageCost                     .00000    
-All Resources.TotalCost                     303.46    
-System.TotalCost                            303.46    
+All Resources.TotalCost                     251.51    
+System.TotalCost                            251.51    
 System.NumberOut                            100.00    
 
 
@@ -1013,65 +1013,65 @@ Analyst: Rockwell Automation                                         Model revis
 Identifier                                 Average    Half-width Minimum    Maximum # Replications
 ___________________________________________________________________________________________________
 
-Extra Exp Check Accum VA Time               63.597     52.334     6.8844     142.36     7
-Xray Baggage Check Total Accum Time         5177.4     1893.8     3047.3     8787.4     7
-Extra Exp Check Number Out                  3.4285     1.8387     1.0000     6.0000     7
-Check for Proper Identification Accum VA C  88.891     10.381     77.244     106.36     7
-Xray Baggage Check Number Out               96.714     2.6546     91.000     99.000     7
-Check for Proper Identification Accum VA T  444.45     51.905     386.22     531.82     7
+Extra Exp Check Accum VA Time               32.842     19.537     10.156     64.189     7
+Xray Baggage Check Total Accum Time         3775.2     1320.9     1962.3     6394.2     7
+Extra Exp Check Number Out                  4.0000     2.3275     1.0000     8.0000     7
+Check for Proper Identification Accum VA C  83.977     7.0994     72.038     93.227     7
+Xray Baggage Check Number Out               96.000     1.9979     93.000     99.000     7
+Check for Proper Identification Accum VA T  419.88     35.497     360.19     466.13     7
 Xray Baggage Check Accum Wait Cost          .00000     .00000     .00000     .00000     7
-Xray Baggage Check Accum Wait Time          4408.3     1850.6     2351.7     7932.4     7
-Check for Proper Identification Number Out  116.85     5.2706     110.00     127.00     7
-Check for Proper Identification Total Accu  88.891     10.381     77.244     106.36     7
-Additional Security Check Total Accum Time  65.098     25.745     33.292     107.93     7
-Extra Exp Check Total Accum Cost            12.719     10.466     1.3768     28.473     7
-Extra Exp Check Total Accum Time            248.50     204.00     9.9382     645.53     7
-Additional Security Check Accum VA Time     65.098     25.745     33.292     107.93     7
+Xray Baggage Check Accum Wait Time          3021.3     1286.0     1274.4     5575.9     7
+Check for Proper Identification Number Out  110.28     3.6884     104.00     115.00     7
+Check for Proper Identification Total Accu  83.977     7.0994     72.038     93.227     7
+Additional Security Check Total Accum Time  37.362     30.020     .00000     103.56     7
+Extra Exp Check Total Accum Cost            6.5685     3.9074     2.0312     12.837     7
+Extra Exp Check Total Accum Time            179.51     171.19     14.183     536.56     7
+Additional Security Check Accum VA Time     37.362     30.020     .00000     103.56     7
 Additional Security Check Accum VA Cost     .00000     .00000     .00000     .00000     7
 Additional Security Check Total Accum Cost  .00000     .00000     .00000     .00000     7
-Check for Proper Identification Accum Wait  5377.5     2258.6     2958.0     9374.6     7
+Check for Proper Identification Accum Wait  3497.4     1476.0     1447.9     6348.0     7
 Check for Proper Identification Accum Wait  .00000     .00000     .00000     .00000     7
-Check for Proper Identification Number In   132.28     8.5888     117.00     143.00     7
-Extra Exp Check Number In                   3.7142     2.2474     1.0000     7.0000     7
-Xray Baggage Check Accum VA Time            769.07     50.207     695.65     854.95     7
-Extra Exp Check Accum VA Cost               12.719     10.466     1.3768     28.473     7
-Check for Proper Identification Total Accu  5822.0     2309.9     3360.9     9906.4     7
-Additional Security Check Number In         5.7142     1.5763     4.0000     8.0000     7
-Xray Baggage Check Accum VA Cost            153.81     10.041     139.13     170.99     7
-Additional Security Check Number Out        5.5714     1.3982     4.0000     8.0000     7
+Check for Proper Identification Number In   122.28     8.7042     108.00     136.00     7
+Extra Exp Check Number In                   4.2857     2.4882     1.0000     8.0000     7
+Xray Baggage Check Accum VA Time            753.81     39.237     687.97     818.32     7
+Extra Exp Check Accum VA Cost               6.5685     3.9074     2.0312     12.837     7
+Check for Proper Identification Total Accu  3917.3     1507.0     1808.1     6805.1     7
+Additional Security Check Number In         6.2857     2.9593     3.0000     13.000     7
+Xray Baggage Check Accum VA Cost            150.76     7.8475     137.59     163.66     7
+Additional Security Check Number Out        6.2857     2.9593     3.0000     13.000     7
 Extra Exp Check Accum Wait Cost             .00000     .00000     .00000     .00000     7
-Extra Exp Check Accum Wait Time             184.90     157.89     3.0537     515.15     7
-Xray Baggage Check Total Accum Cost         153.81     10.041     139.13     170.99     7
-Xray Baggage Check Number In                113.14     6.6571     101.00     123.00     7
-Entity 1.NumberIn                           132.28     8.5888     117.00     143.00     7
+Extra Exp Check Accum Wait Time             146.67     154.94     .00000     472.38     7
+Xray Baggage Check Total Accum Cost         150.76     7.8475     137.59     163.66     7
+Xray Baggage Check Number In                106.00     4.5934     99.000     113.00     7
+Entity 1.NumberIn                           122.28     8.7042     108.00     136.00     7
 Entity 1.NumberOut                          100.00     .00000     100.00     100.00     7
-Xray Machine.NumberSeized                   97.714     2.6003     93.000     101.00     7
-Xray Machine.ScheduledUtilization           .60013     .02555     .55998     .62869     7
+Xray Machine.NumberSeized                   97.000     1.7710     95.000     100.00     7
+Xray Machine.ScheduledUtilization           .62050     .02117     .58278     .64281     7
 Xray Machine.BusyCost                       .00000     .00000     .00000     .00000     7
 Xray Machine.IdleCost                       .00000     .00000     .00000     .00000     7
 Xray Machine.UsageCost                      .00000     .00000     .00000     .00000     7
-Secondary Screening Kit.NumberSeized        3.4285     1.8387     1.0000     6.0000     7
-Secondary Screening Kit.ScheduledUtilizati  .09329     .07294     .01187     .21187     7
+Secondary Screening Kit.NumberSeized        4.0000     2.3275     1.0000     8.0000     7
+Secondary Screening Kit.ScheduledUtilizati  .05216     .02853     .01890     .09495     7
 Secondary Screening Kit.BusyCost            .00000     .00000     .00000     .00000     7
 Secondary Screening Kit.IdleCost            .00000     .00000     .00000     .00000     7
 Secondary Screening Kit.UsageCost           .00000     .00000     .00000     .00000     7
-Transportation Security Officer.NumberSeiz  219.00     7.7931     205.00     228.00     7
-Transportation Security Officer.ScheduledU  .99167     .01059     .96909     .99990     7
-Transportation Security Officer.BusyCost    255.42     26.071     222.81     303.43     7
-Transportation Security Officer.IdleCost    2.0449     2.5231     .03200     7.1698     7
+Transportation Security Officer.NumberSeiz  212.28     6.8946     203.00     222.00     7
+Transportation Security Officer.ScheduledU  .99243     .00440     .98259     .99578     7
+Transportation Security Officer.BusyCost    241.30     17.090     211.66     267.92     7
+Transportation Security Officer.IdleCost    1.8762     1.1821     1.0000     4.5493     7
 Transportation Security Officer.UsageCost   .00000     .00000     .00000     .00000     7
-All Entities.VACost                         255.42     26.071     222.81     303.43     7
+All Entities.VACost                         241.30     17.090     211.66     267.92     7
 All Entities.NVACost                        .00000     .00000     .00000     .00000     7
 All Entities.WaitCost                       .00000     .00000     .00000     .00000     7
 All Entities.TranCost                       .00000     .00000     .00000     .00000     7
 All Entities.OtherCost                      .00000     .00000     .00000     .00000     7
-All Entities.TotalCost                      255.42     26.071     222.81     303.43     7
-All Resources.BusyCost                      255.42     26.071     222.81     303.43     7
-All Resources.IdleCost                      2.0449     2.5231     .03200     7.1698     7
+All Entities.TotalCost                      241.30     17.090     211.66     267.92     7
+All Resources.BusyCost                      241.30     17.090     211.66     267.92     7
+All Resources.IdleCost                      1.8762     1.1821     1.0000     4.5493     7
 All Resources.UsageCost                     .00000     .00000     .00000     .00000     7
-All Resources.TotalCost                     257.47     25.070     223.38     303.46     7
-System.TotalCost                            257.47     25.070     223.38     303.46     7
+All Resources.TotalCost                     243.18     17.676     213.52     270.20     7
+System.TotalCost                            243.18     17.676     213.52     270.20     7
 System.NumberOut                            100.00     .00000     100.00     100.00     7
 
-Simulation run time: 0.48 minutes.
+Simulation run time: 0.43 minutes.
 Simulation run complete.
