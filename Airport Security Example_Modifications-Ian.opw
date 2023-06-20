@@ -11,10 +11,13 @@ Check for Proper Identification.VATime
 Xray Baggage Check.NumberOut
 Xray Baggage Check.WaitCost
 Xray Baggage Check.WaitTime
+Total Out
 Check for Proper Identification.NumberOut
 NumberOfArrivals
 Additional Security Check.VATime
 Additional Security Check.VACost
+Additional Security Check.WaitCost
+Additional Security Check.WaitTime
 Pass Expo Check?.NumberOut True
 Check for Proper Identification.WaitTime
 Check for Proper Identification.WaitCost
